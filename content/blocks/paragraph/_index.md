@@ -3,6 +3,8 @@ isPage: true
 draft: false
 title: Paragraph
 description: Add title and some text, 4 widths and 3 alignments available
+image:
+  src: /images/uploads/text-paragraph.svg
 hero:
   title: Block paragraph
   text: Add title and some text, 4 widths and 3 alignments available

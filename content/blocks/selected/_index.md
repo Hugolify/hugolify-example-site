@@ -3,6 +3,8 @@ isPage: true
 draft: false
 title: Selected
 description: Add selected items from posts, projects, publications or casestudies.
+image:
+  src: /images/uploads/check-all.svg
 hero:
   title: Selected sections
   text: Add selected items from posts, projects, publications or casestudies.

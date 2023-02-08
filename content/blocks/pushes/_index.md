@@ -3,6 +3,8 @@ isPage: true
 draft: false
 title: Push
 description: Add some cards push with image and button in column.
+image:
+  src: /images/uploads/credit-card-2-front.svg
 hero:
   title: Block pushes
   text: Add some cards push with image and button in column.

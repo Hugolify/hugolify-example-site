@@ -3,6 +3,8 @@ isPage: true
 draft: false
 title: Quote
 description: Add quote and author
+image:
+  src: /images/uploads/blockquote-left.svg
 hero:
   cta:
     blank: false

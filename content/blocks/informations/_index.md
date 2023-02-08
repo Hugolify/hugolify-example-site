@@ -3,6 +3,8 @@ isPage: true
 draft: false
 title: Informations
 description: Add some cards informations in column. Icon, images and button are available
+image:
+  src: /images/uploads/card-heading.svg
 hero:
   cta:
     blank: false

@@ -3,6 +3,8 @@ isPage: true
 draft: false
 title: Title
 description: Add title section
+image:
+  src: /images/uploads/type-h2.svg
 hero:
   title: Block title
   text: Add title section

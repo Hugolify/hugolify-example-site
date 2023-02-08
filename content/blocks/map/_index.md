@@ -3,6 +3,8 @@ isPage: true
 draft: false
 title: Map
 description: Add a map (with Leaflet JS library)
+image:
+  src: /images/uploads/geo-alt.svg
 hero:
   title: Block map
   text: Add a map (with Leaflet JS library)
