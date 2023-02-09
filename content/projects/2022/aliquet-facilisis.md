@@ -5,7 +5,7 @@ date: 2022-11-17T10:34:08.410Z
 title: Aliquet facilisis
 description: Sed eros nisl, tempus eget tempor quis, laoreet ac odio. Aenean
   tristique metus vitae mollis imperdiet.
-types: Facilisis tellus
+projects_types: Facilisis tellus
 projects_tags:
   - tempus-eget
 image:

@@ -6,7 +6,7 @@ title: Proin massa enim, lobortis et vehicula non
 description: Aliquam nec orci sagittis massa eleifend consequat. Pellentesque
   semper urna tincidunt quam rutrum, ut molestie mauris viverra. Nam sagittis
   risus nibh, ultrices scelerisque felis vehicula eget.
-types: Phasellus ut
+projects_types: Phasellus ut
 image:
   src: /images/uploads/olga-serjantu-nov56fya1me-unsplash.jpg
   credit: Photo by [Olga
