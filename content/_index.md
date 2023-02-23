@@ -7,7 +7,7 @@ hero:
   text: This is a demo of a Github template for build easily a fast, accessible
     friendly and low carbon website!
   cta:
-    url: https://www.hugolify.com/
+    url: https://www.hugolify.io/
     text: Hugolify website
     blank: true
   cta_second:
