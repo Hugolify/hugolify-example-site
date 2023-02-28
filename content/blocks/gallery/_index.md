@@ -15,7 +15,9 @@ hero:
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-gallery
   title: Block gallery
-  text: Add image gallery in grid
+  text: Add image gallery in grid (with Tobii JS library)
+
+    - https://midzer.github.io/tobii/
 blocks:
   - type: gallery
     column: 6

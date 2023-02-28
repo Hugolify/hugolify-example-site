@@ -7,7 +7,11 @@ image:
   src: /images/uploads/instagram.svg
 hero:
   title: Block Instagram
-  text: Add instagram feed (You need a valid access_token)
+  text: Add instagram feed (with Instafeed JS library)
+
+    - A valid access_token from Instagram is required
+
+    - https://instafeedjs.com/
   cta:
     blank: false
     text: See examples

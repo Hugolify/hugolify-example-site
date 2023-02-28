@@ -16,6 +16,8 @@ hero:
     url: https://github.com/hugolify/hugolify-template/wiki/block-chart
   title: Block chart
   text: Add different charts like bar, line, pie, radar… (with Chart JS library)
+
+    - https://www.chartjs.org/
 blocks:
   - type: chart
     title: Chart pie example
