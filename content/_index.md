@@ -11,7 +11,7 @@ hero:
     text: Hugolify website
     blank: true
   cta_second:
-    url: https://github.com/sebousan/hugo-template
+    url: https://github.com/hugolify/
     text: Discover on Github
     blank: true
   image:
