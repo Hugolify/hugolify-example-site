@@ -55,6 +55,23 @@ blocks:
   - type: pushes
     column: 1
     background: false
+    title: 1 column, align center, darken image
+    text: Nam eleifend nisl tellus, porta lacinia
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        offset: center
+        darken: true
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+        image:
+          src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
+          alt: ""
+  - type: pushes
+    column: 1
+    background: false
     title: 1 column, align end
     text: Nam eleifend nisl tellus, porta lacinia
     items:
@@ -107,6 +124,28 @@ blocks:
       - cta:
           blank: false
         offset: center
+        title: Faucibus maximus nunc
+        text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
+  - type: pushes
+    column: 2
+    background: false
+    title: 2 columns without images and custom background color
+    text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        background_color: "#A90940"
+        color: "#56f6bf"
+        offset: start
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+      - cta:
+          blank: false
+        offset: center
+        background_color: "#56f6bf"
+        color: "#A90940"
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
 ---
