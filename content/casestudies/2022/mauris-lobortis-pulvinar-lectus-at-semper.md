@@ -9,12 +9,6 @@ image:
   src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
   alt: ""
 hero:
-  cta:
-    blank: false
-    text: Button
-  cta_second:
-    blank: true
-    text: Second button
   title: Mauris lobortis pulvinar lectus at semper.
   text: Suspendisse sollicitudin dignissim velit quis consequat
 blocks:

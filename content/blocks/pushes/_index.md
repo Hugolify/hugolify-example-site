@@ -137,7 +137,7 @@ blocks:
           url: "#"
           text: Lorem ipsum
         background_color: "#A90940"
-        color: "#56f6bf"
+        color: "#FFFFFF"
         offset: start
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -145,7 +145,21 @@ blocks:
           blank: false
         offset: center
         background_color: "#56f6bf"
-        color: "#A90940"
+        color: "#000000"
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        offset: center
+        background_color: "#56f6bf"
+        color: "#000000"
+        title: Faucibus maximus nunc
+        text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
+      - background_color: "#A90940"
+        color: "#FFFFFF"
+        offset: end
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
 ---

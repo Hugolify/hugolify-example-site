@@ -7,25 +7,14 @@ hero:
   text: This is a demo of a Github template for build easily a fast, accessible
     friendly and low carbon website!
   cta:
-    url: https://www.hugolify.io/
-    text: Hugolify website
-    blank: true
+    url: "#main"
+    text: Discover
+    blank: false
   cta_second:
-    url: https://github.com/hugolify/
-    text: Discover on Github
+    url: https://www.hugolify.io/
+    text: Discover Hugolify
     blank: true
-  image:
-    src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
 blocks:
-  - type: cta
-    background: false
-    title: Content blocks
-    text: To compose beautiful pages, more than fifteen blocks are available to
-      boost their content. Available for pages and case studies.
-    cta:
-      blank: false
-      text: See all available blocks
-      url: /blocks
   - type: latest
     count: 3
     show_more: true
@@ -50,4 +39,14 @@ blocks:
     background: false
     title: Latest publications
     section: publications
+  - type: pushes
+    background: false
+    column: 2
+    items:
+      - title: Page builder
+        text: To compose beautiful pages, more than fifteen blocks are available to boost their content. Available for pages, offices and case studies.
+        cta:
+          blank: false
+          text: See all available blocks
+          url: /blocks
 ---
