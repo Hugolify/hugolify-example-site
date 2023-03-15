@@ -6,6 +6,9 @@ description: Add some testimonials
 image:
   src: /images/uploads/blockquote-left.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/blockquote-left.svg
   cta:
     blank: false
     text: See examples

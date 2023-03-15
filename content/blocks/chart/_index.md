@@ -6,6 +6,9 @@ description: Add different chart (bar, line, pie…)
 image:
   src: /images/uploads/bar-chart.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/bar-chart.svg
   cta:
     blank: false
     url: "#main"

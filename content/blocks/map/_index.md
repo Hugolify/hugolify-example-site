@@ -6,6 +6,7 @@ description: Add a map ( with Leaflet JS library)
 image:
   src: /images/uploads/geo-alt.svg
 hero:
+  surtitle: Blocks
   title: Block map
   text: Add a map (OpenStreetMap with Leaflet JS library) 
   
@@ -20,6 +21,8 @@ hero:
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/Block-map
     blank: true
+  image:
+    src: /images/uploads/geo-alt.svg
 blocks:
   - type: map
     background: false

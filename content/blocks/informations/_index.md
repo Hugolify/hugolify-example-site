@@ -6,10 +6,13 @@ description: Add some cards informations in column. Icon, images and button are 
 image:
   src: /images/uploads/card-heading.svg
 hero:
+  surtitle: Blocks
   cta:
     blank: false
     text: See examples
     url: "#main"
+  image:
+    src: /images/uploads/card-heading.svg
   cta_second:
     blank: true
     text: Documentation

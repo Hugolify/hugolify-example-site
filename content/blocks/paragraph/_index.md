@@ -6,6 +6,7 @@ description: Add title and some text, 4 widths and 3 alignments available
 image:
   src: /images/uploads/text-paragraph.svg
 hero:
+  surtitle: Blocks
   title: Block paragraph
   text: Add title and some text, 4 widths and 3 alignments available
   cta:
@@ -16,6 +17,8 @@ hero:
     blank: true
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-paragraph
+  image:
+    src: /images/uploads/text-paragraph.svg
 blocks:
   - type: paragraph
     background: false
@@ -38,6 +41,10 @@ blocks:
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
       semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
       nec iaculis lorem.
+    cta:
+      blank: false
+      url: "#"
+      text: Button
   - type: paragraph
     background: false
     grid: small

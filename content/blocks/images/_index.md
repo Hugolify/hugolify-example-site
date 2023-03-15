@@ -6,8 +6,11 @@ description: Add image list in one or two columns
 image:
   src: /images/uploads/images.svg
 hero:
+  surtitle: Blocks
   title: Block Images
   text: Add image list in one or two columns
+  image:
+    src: /images/uploads/images.svg
   cta:
     blank: false
     text: See examples

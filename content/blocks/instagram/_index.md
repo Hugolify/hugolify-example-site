@@ -6,12 +6,15 @@ description: Add instagram feed
 image:
   src: /images/uploads/instagram.svg
 hero:
+  surtitle: Blocks
   title: Block Instagram
   text: Add instagram feed (with Instafeed JS library)
 
     - A valid access_token from Instagram is required
 
     - https://instafeedjs.com/
+  image:
+    src: /images/uploads/instagram.svg
   cta:
     blank: false
     text: See examples

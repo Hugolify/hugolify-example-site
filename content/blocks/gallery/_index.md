@@ -6,6 +6,9 @@ description: Add image gallery in grid
 image:
   src: /images/uploads/grid-3x2-gap.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/grid-3x2-gap.svg
   cta:
     blank: false
     text: See examples

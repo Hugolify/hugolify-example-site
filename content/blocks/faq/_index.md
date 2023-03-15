@@ -6,6 +6,9 @@ description: Add some frequently asked questions
 image:
   src: /images/uploads/patch-question.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/patch-question.svg
   cta:
     blank: false
     text: See examples

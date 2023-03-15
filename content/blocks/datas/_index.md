@@ -6,6 +6,9 @@ description: Add some datas in columns (with gauge or not)
 image:
   src: /images/uploads/percent.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/percent.svg
   cta:
     blank: false
     text: See examples

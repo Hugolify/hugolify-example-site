@@ -6,6 +6,9 @@ description: Add button with link
 image:
   src: /images/uploads/link.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/link.svg
   cta:
     blank: false
     url: "#main"

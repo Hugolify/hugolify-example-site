@@ -5,7 +5,7 @@ title: Blocks
 description: Listing of available blocks
 hero:
   title: Blocks
-  text: More than fifteen blocks available
+  text: More than twenty blocks available
   cta:
     text: See examples
     url: "#main"

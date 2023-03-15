@@ -6,8 +6,11 @@ description: Add latest items from posts, projects, publications or casestudies.
 image:
   src: /images/uploads/clock-history.svg
 hero:
+  surtitle: Blocks
   title: Block latest
   text: Add latest items from posts, projects, publications or casestudies.
+  image:
+    src: /images/uploads/clock-history.svg
   cta:
     blank: false
     url: "#main"

@@ -6,6 +6,7 @@ description: Add quote and author
 image:
   src: /images/uploads/blockquote-left.svg
 hero:
+  surtitle: Blocks
   cta:
     blank: false
     text: See examples
@@ -16,6 +17,8 @@ hero:
     text: Documentation
   title: Block quote
   text: Add quote and author
+  image:
+    src: /images/uploads/blockquote-left.svg
 blocks:
   - type: quote
     background: false

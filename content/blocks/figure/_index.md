@@ -6,8 +6,11 @@ description: Add image block with legend and credits, 4 widths available
 image:
   src: /images/uploads/card-image.svg
 hero:
+  surtitle: Blocks
   title: Block figure
-  text: Add image block with legend and credits, 3 widths available
+  text: Add image block with legend and credits, 4 widths available
+  image:
+    src: /images/uploads/card-image.svg
   cta:
     blank: false
     text: See examples

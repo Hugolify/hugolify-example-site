@@ -2,12 +2,15 @@
 isPage: true
 draft: false
 title: Embed
-description: Add embed like video youtube
+description: Add embed like video youtube, typeform, calendly…
 image:
   src: /images/uploads/code-slash.svg
 hero:
+  surtitle: Blocks
   title: Block embed
-  text: Add embed like video youtube
+  text: Add embed like video youtube, typeform, calendly…
+  image:
+    src: /images/uploads/code-slash.svg
   cta:
     blank: false
     text: See examples

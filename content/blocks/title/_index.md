@@ -6,8 +6,11 @@ description: Add title section
 image:
   src: /images/uploads/type-h2.svg
 hero:
+  surtitle: Blocks
   title: Block title
   text: Add title section
+  image:
+    src: /images/uploads/type-h2.svg
   cta:
     blank: false
     text: See examples

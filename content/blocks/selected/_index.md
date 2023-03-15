@@ -6,8 +6,11 @@ description: Add selected items from posts, projects, publications or casestudie
 image:
   src: /images/uploads/check-all.svg
 hero:
+  surtitle: Blocks
   title: Selected sections
   text: Add selected items from posts, projects, publications or casestudies.
+  image:
+    src: /images/uploads/check-all.svg
   cta:
     text: See examples
     blank: false

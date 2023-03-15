@@ -6,6 +6,9 @@ description: Add section with content and media
 image:
   src: /images/uploads/postcard.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/postcard.svg
   cta:
     blank: false
     text: See examples

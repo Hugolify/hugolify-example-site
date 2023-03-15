@@ -6,6 +6,9 @@ description: Add alert section with state
 image:
   src: /images/uploads/exclamation-octagon.svg
 hero:
+  surtitle: Blocks
+  image:
+    src: /images/uploads/exclamation-octagon.svg
   cta:
     blank: false
     text: See examples

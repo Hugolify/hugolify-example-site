@@ -6,8 +6,11 @@ description: Add some cards push with image and button in column.
 image:
   src: /images/uploads/credit-card-2-front.svg
 hero:
+  surtitle: Blocks
   title: Block pushes
   text: Add some cards push with image and button in column.
+  image:
+    src: /images/uploads/credit-card-2-front.svg
   cta:
     text: See examples
     url: "#main"
