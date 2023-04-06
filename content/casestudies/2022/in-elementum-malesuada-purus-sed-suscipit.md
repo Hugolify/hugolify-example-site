@@ -39,7 +39,7 @@ blocks:
       src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
   - type: quote
     background: false
-    text: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus
+    quote: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus
       augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel
       tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget
       commodo ex ullamcorper eu. Cras vel tincidunt urna. Aliquam tempor

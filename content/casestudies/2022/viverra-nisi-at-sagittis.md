@@ -26,7 +26,7 @@ hero:
 blocks:
   - type: quote
     background: false
-    text: Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
+    quote: Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
       egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
       Suspendisse egestas augue a egestas consectetur. Aliquam interdum
       hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel
