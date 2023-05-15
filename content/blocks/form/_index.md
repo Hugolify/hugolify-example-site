@@ -28,6 +28,10 @@ blocks:
     submit: Send message
     offset: center
     grid: small
+    heading:
+      surtitle: velit quis consequat
+      title: Lorem ipsum dolor sit amet.
+      text: Suspendisse sollicitudin dignissim velit quis consequat
     items:
       - type: text
         name: name
@@ -107,12 +111,13 @@ blocks:
         required: true
   - type: form
     background: false
-    title: Lorem ipsum
-    text: Semper urna enim, viverra faucibus tellus bibendum sed
     name: contact
     submit: Send message
     offset: center
     grid: large
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - type: text
         name: name

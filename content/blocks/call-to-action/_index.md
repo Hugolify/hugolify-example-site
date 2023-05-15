@@ -32,18 +32,20 @@ blocks:
       url: "#"
       text: Button
     background: false
-    title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
-    text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
-      pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
-      nibh erat, eget interdum nisi auctor eget.
+    heading:
+      title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+      text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
+        pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+        nibh erat, eget interdum nisi auctor eget.
   - type: cta
     cta:
       blank: false
       url: "#"
       text: Button
     background: true
-    title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
-    text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
-      pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
-      nibh erat, eget interdum nisi auctor eget.
+    heading:
+      title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+      text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
+        pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+        nibh erat, eget interdum nisi auctor eget.
 ---

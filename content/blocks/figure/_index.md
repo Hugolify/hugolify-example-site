@@ -31,6 +31,26 @@ blocks:
     grid: small
   - type: figure
     figure:
+      src: /images/uploads/bertrand-borie-tmlculvqha0-unsplash.jpg
+      legend: Figure (small)
+      credit: Photo by [Bertrand
+        Borie](https://unsplash.com/@bertrand1212?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+        on
+        [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    grid: small
+    offset: center
+  - type: figure
+    figure:
+      src: /images/uploads/bertrand-borie-tmlculvqha0-unsplash.jpg
+      legend: Figure (small)
+      credit: Photo by [Bertrand
+        Borie](https://unsplash.com/@bertrand1212?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+        on
+        [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    grid: small
+    offset: end
+  - type: figure
+    figure:
       src: /images/uploads/bertrand-bouchez-lrd26nd-awu-unsplash.jpg
       legend: Figure (medium)
       credit: Photo by [Bertrand
@@ -48,6 +68,9 @@ blocks:
         [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     grid: large
   - type: figure
+    heading:
+      surtitle: Lorem ipsum dolor sit amet.
+      title: Semper urna enim, viverra faucibus tellus bibendum sed
     figure:
       src: /images/uploads/yann-behr-qzugs6bpcr0-unsplash.jpg
       legend: Figure (full)

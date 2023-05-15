@@ -28,43 +28,47 @@ blocks:
     background: false
     location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
     zoom: 14
-    text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-      Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-    title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-      lectus.
+    heading:
+      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum lectus.
+      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+        Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
   - type: map
     background: true
     location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
     zoom: 14
-    text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-      Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-    title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-      lectus.
+    heading:
+      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+        Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
+      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
+        lectus.
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
     zoom: 14
     grid: small
-    text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-      Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-    title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-      lectus.
+    heading:
+      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+        Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
+      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
+        lectus.
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
     zoom: 14
     grid: medium
-    text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-      Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-    title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-      lectus.
+    heading:
+      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+        Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
+      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
+        lectus.
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[-0.5737107,44.8425666]}'
     zoom: 14
     grid: large
-    text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
-      Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
-    title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
-      lectus.
+    heading:
+      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+        Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
+      title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
+        lectus.
 ---

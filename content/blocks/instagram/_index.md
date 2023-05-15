@@ -8,11 +8,7 @@ image:
 hero:
   surtitle: Blocks
   title: Block Instagram
-  text: Add instagram feed (with Instafeed JS library)
-
-    - A valid access_token from Instagram is required
-
-    - https://instafeedjs.com/
+  text: "Add instagram feed (with Instafeed JS library: https://instafeedjs.com)"
   image:
     src: /images/uploads/instagram.svg
   cta:
@@ -24,18 +20,17 @@ hero:
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-instagram
 blocks:
+  - type: alert
+    state: danger
+    text: A valid access_token from Instagram is required
   - type: instagram
     background: false
-    title: Instagram feed
+    heading:
+      title: Instagram feed
     limit: 4
     token: ""
     cta:
       blank: true
       text: Discover on instagram
       url: https://www.instagram.com/sebouorhum
-  - type: instagram
-    background: true
-    title: Instagram feed
-    limit: 6
-    token: ""
 ---

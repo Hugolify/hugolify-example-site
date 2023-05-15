@@ -23,8 +23,9 @@ blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns with icons
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with icons
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -41,8 +42,9 @@ blocks:
   - type: informations
     column: 3
     background: false
-    title: 3 columns with icons
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 3 columns with icons
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -56,8 +58,9 @@ blocks:
   - type: informations
     column: 4
     background: true
-    title: 4 columns with icons and background
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with icons and background
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -75,8 +78,9 @@ blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns with images
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with images
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -101,8 +105,9 @@ blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns with logos
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns with logos
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
@@ -127,8 +132,9 @@ blocks:
   - type: informations
     column: 4
     background: false
-    title: 4 columns mixed
-    text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
+    heading:
+      title: 4 columns mixed
+      text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
     items:
       - title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.

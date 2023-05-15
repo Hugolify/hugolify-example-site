@@ -22,8 +22,10 @@ hero:
 blocks:
   - type: images
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Suspendisse sollicitudin dignissim velit quis consequat
+    heading:
+      surtitle: velit quis consequat
+      title: Lorem ipsum dolor sit amet.
+      text: Suspendisse sollicitudin dignissim velit quis consequat
     images:
       - half: false
         src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg

@@ -18,15 +18,14 @@ hero:
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-gallery
   title: Block gallery
-  text: Add image gallery in grid (with Tobii JS library)
-
-    - https://midzer.github.io/tobii/
+  text: "Add image gallery in grid (with Tobii JS library: https://midzer.github.io/tobii)"
 blocks:
   - type: gallery
     column: 6
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
       - src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
@@ -43,8 +42,9 @@ blocks:
   - type: gallery
     column: 5
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/bertrand-bouchez-lrd26nd-awu-unsplash.jpg
       - src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
@@ -61,8 +61,10 @@ blocks:
   - type: gallery
     column: 4
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      surtitle: dolor sit amet.
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
       - src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
@@ -79,8 +81,9 @@ blocks:
   - type: gallery
     column: 3
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
       - src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
@@ -97,8 +100,9 @@ blocks:
   - type: gallery
     column: 2
     background: false
-    title: Lorem ipsum dolor sit amet.
-    text: Mauris lobortis pulvinar lectus at semper.
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Mauris lobortis pulvinar lectus at semper.
     gallery:
       - src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
       - src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg

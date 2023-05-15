@@ -25,27 +25,39 @@ blocks:
     show_more: true
     background: false
     section: posts
-    title: Latest news
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Latest news
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
     count: 3
     show_more: true
     background: false
     section: projects
-    title: Latest projects
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Latest projects
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
     count: 3
     show_more: true
     background: false
     section: casestudies
-    title: Latest case studies
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Latest case studies
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
     count: 3
     show_more: true
     background: false
     section: publications
-    title: Latest publications
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Latest publications
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - type: latest
+    count: 3
+    show_more: true
+    background: false
+    section: persons
+    heading:
+      title: Latest persons
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---

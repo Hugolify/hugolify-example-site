@@ -23,8 +23,9 @@ blocks:
   - type: datas
     column: 3
     background: false
-    title: With gauge and automatic color
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: With gauge and automatic color
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus
@@ -49,8 +50,9 @@ blocks:
   - type: datas
     column: 3
     background: false
-    title: With gauge
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: With gauge
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus
@@ -75,8 +77,9 @@ blocks:
   - type: datas
     column: 3
     background: false
-    title: Without gauges
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: Without gauges
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus
@@ -101,8 +104,9 @@ blocks:
   - type: datas
     column: 4
     background: false
-    title: Without gauges
-    text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    heading:
+      title: Without gauges
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
       - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
         title: Faucibus

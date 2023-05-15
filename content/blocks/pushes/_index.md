@@ -26,8 +26,9 @@ blocks:
   - type: pushes
     column: 1
     background: false
-    title: 1 column
-    text: Nam eleifend nisl tellus, porta lacinia
+    heading:
+      title: 1 column
+      text: Nam eleifend nisl tellus, porta lacinia
     items:
       - cta:
           blank: false
@@ -42,8 +43,9 @@ blocks:
   - type: pushes
     column: 1
     background: false
-    title: 1 column, align center
-    text: Nam eleifend nisl tellus, porta lacinia
+    heading:
+      title: 1 column, align center
+      text: Nam eleifend nisl tellus, porta lacinia
     items:
       - cta:
           blank: false
@@ -58,8 +60,9 @@ blocks:
   - type: pushes
     column: 1
     background: false
-    title: 1 column, align center, darken image
-    text: Nam eleifend nisl tellus, porta lacinia
+    heading:
+      title: 1 column, align center, darken image
+      text: Nam eleifend nisl tellus, porta lacinia
     items:
       - cta:
           blank: false
@@ -75,8 +78,9 @@ blocks:
   - type: pushes
     column: 1
     background: false
-    title: 1 column, align end
-    text: Nam eleifend nisl tellus, porta lacinia
+    heading:
+      title: 1 column, align end
+      text: Nam eleifend nisl tellus, porta lacinia
     items:
       - cta:
           blank: false
@@ -91,8 +95,9 @@ blocks:
   - type: pushes
     column: 2
     background: false
-    title: 2 columns
-    text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
+    heading:
+      title: 2 columns
+      text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
     items:
       - cta:
           blank: false
@@ -114,8 +119,9 @@ blocks:
   - type: pushes
     column: 2
     background: false
-    title: 2 columns without images
-    text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
+    heading:
+      title: 2 columns without images
+      text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
     items:
       - cta:
           blank: false
@@ -132,8 +138,9 @@ blocks:
   - type: pushes
     column: 2
     background: false
-    title: 2 columns without images and custom background color
-    text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
+    heading:
+      title: 2 columns without images and custom background color
+      text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
     items:
       - cta:
           blank: false

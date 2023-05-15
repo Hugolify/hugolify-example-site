@@ -22,8 +22,15 @@ hero:
 blocks:
   - type: title
     background: false
-    title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: title
     background: true
-    title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    heading:
+      surtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - type: title
+    background: false
+    heading:
+      title: Lorem ipsum dolor sit amet
 ---
