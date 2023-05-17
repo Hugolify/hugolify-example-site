@@ -41,11 +41,9 @@ blocks:
     show_gauge: false
     show_color: false
     background: false
-    title: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus
-      dictum.
-    text: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis,
-      auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris
-      tincidunt velit sed rhoncus tincidunt.
+    heading:
+      title: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
+      text: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt.
     items:
       - limit: 100
         prefix: +

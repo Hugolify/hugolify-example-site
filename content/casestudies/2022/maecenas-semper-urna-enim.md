@@ -25,5 +25,6 @@ blocks:
         src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
       - half: false
         src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
-    title: Quisque sed tortor vel tortor tincidunt tristique id nec urna.
+    heading:
+      title: Quisque sed tortor vel tortor tincidunt tristique id nec urna.
 ---

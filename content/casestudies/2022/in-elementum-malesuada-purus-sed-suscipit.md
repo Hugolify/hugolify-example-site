@@ -49,7 +49,8 @@ blocks:
   - type: gallery
     column: 4
     background: false
-    title: Quisque sed tortor vel tortor tincidunt tristique id nec urna.
+    heading:
+      title: Quisque sed tortor vel tortor tincidunt tristique id nec urna.
     gallery:
       - src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
       - src: /images/uploads/robin-goutard-3evcj31p35q-unsplash.jpg
