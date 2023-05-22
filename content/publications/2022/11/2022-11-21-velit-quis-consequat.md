@@ -7,6 +7,8 @@ description: In ultricies sapien turpis, ac molestie massa dignissim vitae.
   Maecenas ut sodales arcu, blandit rhoncus ex. Maecenas ac aliquet ante.
   Quisque risus mauris, maximus ut luctus ut, faucibus vitae ligula. Vivamus
   iaculis libero arcu, sed pellentesque nisl lacinia eget.
+publications_categories:
+  - Lorem
 image:
   src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
 ---
