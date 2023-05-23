@@ -93,6 +93,60 @@ blocks:
           src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
           alt: ""
   - type: pushes
+    column: 1
+    background: false
+    heading:
+      title: 1 column, in card
+      text: Nam eleifend nisl tellus, porta lacinia
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        card: true
+        offset: start
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+        image:
+          src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+          alt: ""
+  - type: pushes
+    column: 1
+    background: false
+    heading:
+      title: 1 column, in card, align center
+      text: Nam eleifend nisl tellus, porta lacinia
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        offset: center
+        card: true
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+        image:
+          src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
+          alt: ""
+  - type: pushes
+    column: 1
+    background: false
+    heading:
+      title: 1 column, in card, align end
+      text: Nam eleifend nisl tellus, porta lacinia
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        card: true
+        offset: end
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+        image:
+          src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
+          alt: ""
+  - type: pushes
     column: 2
     background: false
     heading:
@@ -114,6 +168,32 @@ blocks:
           src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
           alt: ""
         offset: start
+        title: Faucibus maximus nunc
+        text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
+  - type: pushes
+    column: 2
+    background: false
+    heading:
+      title: 2 columns, in card
+      text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        image:
+          src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
+        offset: start
+        card: true
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+      - cta:
+          blank: false
+        image:
+          src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
+          alt: ""
+        offset: start
+        card: true
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
   - type: pushes
