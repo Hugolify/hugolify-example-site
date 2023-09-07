@@ -2,10 +2,9 @@
 isIndex: true
 title: Home
 hero:
-  surtitle: Hugo + Netlify CMS
+  surtitle: Framework Hugo + Decap CMS
   title: Hugolify demo website
-  text: This is a demo of a Github template for build easily a fast, accessible
-    friendly and low carbon website!
+  text: This is a demo of a Github template for build easily a fast, accessible friendly and low carbon website!
   cta:
     url: "#main"
     text: Discover
@@ -15,16 +14,17 @@ hero:
     text: Discover Hugolify
     blank: true
 blocks:
-  - type: pushes
+  - type: editorial
     background: false
-    column: 2
-    items:
-      - title: Page builder
-        text: To compose beautiful pages, more than twenty blocks are available to boost their content. Available for pages, offices, case studies and more.
-        cta:
-          blank: false
-          text: See all available blocks
-          url: /blocks
+    direction: rtl
+    title: Page builder
+    text: To compose beautiful pages, more than twenty blocks are available to boost their content. Available for pages, places, case studies and more.
+    cta:
+      blank: false
+      text: See all available blocks
+      url: /blocks
+    image:
+      src: /images/uploads/123.Website-builder.svg
   - type: latest
     count: 3
     show_more: true
