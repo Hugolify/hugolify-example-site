@@ -9,7 +9,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
 'posts/categories': Donec maximus a nulla ut feugiat
 authors:
   - john-doe
-'posts/tags':
+tags:
   - Lorem
   - Ipsum
 image:
