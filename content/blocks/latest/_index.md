@@ -2,13 +2,13 @@
 isPage: true
 draft: false
 title: Latest
-description: Add latest items from posts, projects, publications or casestudies.
+description: Add latest items section (posts, projects, publications, casestudies…)
 image:
   src: /images/uploads/clock-history.svg
 hero:
   surtitle: Blocks
   title: Block latest
-  text: Add latest items from posts, projects, publications or casestudies.
+  text: Add latest items section (posts, projects, publications, casestudies…)
   image:
     src: /images/uploads/clock-history.svg
   cta:

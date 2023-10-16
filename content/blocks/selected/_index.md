@@ -2,13 +2,13 @@
 isPage: true
 draft: false
 title: Selected
-description: Add selected items from posts, projects, publications or casestudies.
+description: Add selected items section (posts, projects, publications, casestudies…)
 image:
   src: /images/uploads/check-all.svg
 hero:
   surtitle: Blocks
   title: Selected sections
-  text: Add selected items from posts, projects, publications or casestudies.
+  text: Add selected items section (posts, projects, publications, casestudies…)
   image:
     src: /images/uploads/check-all.svg
   cta:

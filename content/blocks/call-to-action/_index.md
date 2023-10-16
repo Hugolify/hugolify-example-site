@@ -2,7 +2,7 @@
 isPage: true
 draft: false
 title: Call to action
-description: Add button with link
+description: Add one or two buttons with link
 image:
   src: /images/uploads/link.svg
 hero:
@@ -18,7 +18,7 @@ hero:
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-cta
   title: Block call to action
-  text: Add button with link
+  text: Add one or two buttons with link
 blocks:
   - type: cta
     cta:
@@ -31,7 +31,7 @@ blocks:
       blank: false
       url: "#"
       text: Button
-    background: false
+    background: true
     heading:
       title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
       text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
@@ -42,7 +42,11 @@ blocks:
       blank: false
       url: "#"
       text: Button
-    background: true
+    cta_second:
+      blank: false
+      url: "#"
+      text: Second button
+    background: false
     heading:
       title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
       text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
