@@ -41,6 +41,46 @@ blocks:
           src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
           alt: ""
   - type: pushes
+    background: false
+    heading:
+      title: Carousel
+      text: Nam eleifend nisl tellus, porta lacinia
+    layout: carousel
+    carousel:
+      type: loop
+      autoplay: true
+      pagination: true
+    items:
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        offset: center
+        darken: true
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+        image:
+          src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
+          alt: ""
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        card: true
+        offset: center
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+        image:
+          src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+          alt: ""
+      - cta:
+          blank: false
+          url: "#"
+          text: Lorem ipsum
+        offset: center
+        title: Lorem ipsum
+        text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
+  - type: pushes
     column: 1
     background: false
     heading:
