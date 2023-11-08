@@ -1,14 +1,14 @@
 links:
   - title: News
-    url: /news
+    url: /news/
     links:
     - title: "Lorem ipsum"
       url: /news/lorem-ipsum/
   - title: Projects
-    url: /projects
+    url: /projects/
   - blank: false
     title: Case studies
-    url: /case-studies
+    url: /case-studies/
   - blank: false
     title: Publications
-    url: /publications
+    url: /publications/
