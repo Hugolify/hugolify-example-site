@@ -44,4 +44,34 @@ blocks:
     text: Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
       pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
       nibh erat, eget interdum nisi auctor eget.
+  - type: alert
+    state: success
+    background: false
+    text: Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
+      pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+      nibh erat, eget interdum nisi auctor eget.
+  - type: alert
+    state: info
+    background: false
+    text: Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
+      pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+      nibh erat, eget interdum nisi auctor eget.
+  - type: alert
+    state: primary
+    background: false
+    text: Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
+      pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+      nibh erat, eget interdum nisi auctor eget.
+  - type: alert
+    state: secondary
+    background: false
+    text: Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
+      pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+      nibh erat, eget interdum nisi auctor eget.
+  - type: alert
+    state: dark
+    background: false
+    text: Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
+      pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+      nibh erat, eget interdum nisi auctor eget.
 ---
