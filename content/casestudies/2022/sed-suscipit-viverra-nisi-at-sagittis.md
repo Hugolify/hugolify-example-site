@@ -16,7 +16,7 @@ hero:
     blank: false
   cta_second:
     blank: false
-  title: ""
+  title: ''
 blocks:
   - type: images
     background: false

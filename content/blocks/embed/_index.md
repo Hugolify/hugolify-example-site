@@ -14,7 +14,7 @@ hero:
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   cta_second:
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-embed
@@ -32,7 +32,8 @@ blocks:
       text: Mauris lobortis pulvinar lectus at semper.
   - type: embed
     background: false
-    embed: <iframe src="https://player.vimeo.com/video/96326992?h=8fa03bf5b0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    embed:
+      <iframe src="https://player.vimeo.com/video/96326992?h=8fa03bf5b0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       <p><a href="https://vimeo.com/96326992">Way Of Life - Landes</a> from <a href="https://vimeo.com/monvilain">MonVilain</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
     heading:
       title: Embed from vimeo

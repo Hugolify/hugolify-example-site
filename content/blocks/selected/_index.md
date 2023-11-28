@@ -14,7 +14,7 @@ hero:
   cta:
     text: See examples
     blank: false
-    url: "#main"
+    url: '#main'
   cta_second:
     blank: true
     text: Documentation

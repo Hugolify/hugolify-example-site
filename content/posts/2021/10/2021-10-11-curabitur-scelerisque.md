@@ -22,7 +22,7 @@ image:
 
 ## Sed pharetra, massa eu varius egestas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia ligula non facilisis eleifend. Cras at gravida ipsum. Donec quam erat, fermentum nec commodo sed, tincidunt vitae nisl. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia ligula non facilisis eleifend. Cras at gravida ipsum. Donec quam erat, fermentum nec commodo sed, tincidunt vitae nisl.
 
 Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante. Suspendisse egestas augue a egestas consectetur. Aliquam interdum hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh. Cras ac facilisis nunc.
 

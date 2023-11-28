@@ -10,7 +10,7 @@ hero:
     src: /images/uploads/123.Website-builder.svg
   cta:
     text: See examples
-    url: "#main"
+    url: '#main'
     blank: false
   cta_second:
     blank: true

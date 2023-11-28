@@ -14,7 +14,7 @@ hero:
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   cta_second:
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-figure

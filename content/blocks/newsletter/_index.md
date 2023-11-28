@@ -11,7 +11,7 @@ hero:
   text: Add a newsletter signup form (Mailchimp, Brevo…)
   cta:
     blank: false
-    url: "#main"
+    url: '#main'
     text: See example
   cta_second:
     text: Documentation
@@ -24,7 +24,8 @@ blocks:
     background: false
     heading:
       title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum lectus.
-      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+      text:
+        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
         Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
     grid: small
     form:
@@ -35,7 +36,8 @@ blocks:
     grid: medium
     heading:
       title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum lectus.
-      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+      text:
+        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
         Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
     form:
       url: https://3878d17c.sibforms.com/serve/MUIFAMWO41POOocupYsiYajLhvT-0qlkWmV0-GXHUHIclko36yiiJfl2eC1F8JRHwui6oM9QB_QgKTl-Tv5gGf8KnbcDbTjEa8v34Dn1M2St9buOy9gqf1R_GX56EYDmRTJHPbJaerPwAqXNesdv2qaJEhWCGCxnxj89MK9FOS3AL_ZouMUve00Ead5qJ3NWkwg9rUp9Mzi-QIDZ
@@ -44,7 +46,8 @@ blocks:
     grid: large
     heading:
       title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum lectus.
-      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+      text:
+        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
         Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
     form:
       url: https://3878d17c.sibforms.com/serve/MUIFAMWO41POOocupYsiYajLhvT-0qlkWmV0-GXHUHIclko36yiiJfl2eC1F8JRHwui6oM9QB_QgKTl-Tv5gGf8KnbcDbTjEa8v34Dn1M2St9buOy9gqf1R_GX56EYDmRTJHPbJaerPwAqXNesdv2qaJEhWCGCxnxj89MK9FOS3AL_ZouMUve00Ead5qJ3NWkwg9rUp9Mzi-QIDZ
@@ -53,7 +56,8 @@ blocks:
     grid: full
     heading:
       title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum lectus.
-      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+      text:
+        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
         Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
     form:
       url: https://3878d17c.sibforms.com/serve/MUIFAMWO41POOocupYsiYajLhvT-0qlkWmV0-GXHUHIclko36yiiJfl2eC1F8JRHwui6oM9QB_QgKTl-Tv5gGf8KnbcDbTjEa8v34Dn1M2St9buOy9gqf1R_GX56EYDmRTJHPbJaerPwAqXNesdv2qaJEhWCGCxnxj89MK9FOS3AL_ZouMUve00Ead5qJ3NWkwg9rUp9Mzi-QIDZ

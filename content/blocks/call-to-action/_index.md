@@ -11,7 +11,7 @@ hero:
     src: /images/uploads/link.svg
   cta:
     blank: false
-    url: "#main"
+    url: '#main'
     text: Discover
   cta_second:
     blank: true
@@ -24,12 +24,12 @@ blocks:
     cta:
       blank: true
       text: Button with external link
-      url: "#"
+      url: '#'
     background: false
   - type: cta
     cta:
       blank: false
-      url: "#"
+      url: '#'
       text: Button
     background: true
     heading:
@@ -40,11 +40,11 @@ blocks:
   - type: cta
     cta:
       blank: false
-      url: "#"
+      url: '#'
       text: Button
     cta_second:
       blank: false
-      url: "#"
+      url: '#'
       text: Second button
     background: false
     heading:

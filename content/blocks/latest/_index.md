@@ -13,7 +13,7 @@ hero:
     src: /images/uploads/clock-history.svg
   cta:
     blank: false
-    url: "#main"
+    url: '#main'
     text: See examples
   cta_second:
     blank: true

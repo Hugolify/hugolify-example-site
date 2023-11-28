@@ -12,7 +12,7 @@ description: Aliquam ut porttitor nunc, sit amet suscipit nisl. In sed est vitae
   vehicula vitae nibh ut dictum. Sed porta tincidunt est id ultricies. Aliquam
   erat volutpat. Mauris porttitor iaculis quam, eu rutrum lacus ornare id.
 image:
-  alt: ""
+  alt: ''
   credit: Photo by [Bernd
     Dittrich](https://unsplash.com/@hdbernd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on
@@ -29,7 +29,8 @@ blocks:
     cta:
       blank: false
     background: false
-    text: Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
+    text:
+      Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
       egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
       Suspendisse egestas augue a egestas consectetur. Aliquam interdum
       hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel
@@ -39,7 +40,8 @@ blocks:
       src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
   - type: quote
     background: false
-    quote: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus
+    quote:
+      Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus
       augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel
       tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget
       commodo ex ullamcorper eu. Cras vel tincidunt urna. Aliquam tempor

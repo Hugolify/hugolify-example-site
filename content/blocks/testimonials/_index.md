@@ -12,7 +12,7 @@ hero:
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   cta_second:
     blank: true
     url: https://github.com/hugolify/hugolify-template/wiki/block-testimonials
@@ -69,7 +69,7 @@ blocks:
       autoplay: true
       gap: 1.5rem
       padding: 3rem
-      responsive: 
+      responsive:
         - breakpoint: 640
           carousel:
             perPage: 1

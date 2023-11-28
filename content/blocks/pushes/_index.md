@@ -13,7 +13,7 @@ hero:
     src: /images/uploads/credit-card-2-front.svg
   cta:
     text: See examples
-    url: "#main"
+    url: '#main'
     blank: false
   cta_second:
     blank: true
@@ -32,14 +32,14 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: start
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
-          alt: ""
+          alt: ''
   - type: pushes
     background: false
     heading:
@@ -53,7 +53,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: center
         darken: true
@@ -61,10 +61,10 @@ blocks:
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
-          alt: ""
+          alt: ''
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         card: true
         offset: center
@@ -72,10 +72,10 @@ blocks:
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
-          alt: ""
+          alt: ''
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: center
         title: Lorem ipsum
@@ -89,14 +89,14 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: center
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
-          alt: ""
+          alt: ''
   - type: pushes
     column: 1
     background: false
@@ -106,7 +106,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: center
         darken: true
@@ -114,7 +114,7 @@ blocks:
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
-          alt: ""
+          alt: ''
   - type: pushes
     column: 1
     background: false
@@ -124,14 +124,14 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: end
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
-          alt: ""
+          alt: ''
   - type: pushes
     column: 1
     background: false
@@ -141,7 +141,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         card: true
         offset: start
@@ -149,7 +149,7 @@ blocks:
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
-          alt: ""
+          alt: ''
   - type: pushes
     column: 1
     background: false
@@ -159,7 +159,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: center
         card: true
@@ -167,7 +167,7 @@ blocks:
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
-          alt: ""
+          alt: ''
   - type: pushes
     column: 1
     background: false
@@ -177,7 +177,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         card: true
         offset: end
@@ -185,7 +185,7 @@ blocks:
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
           src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
-          alt: ""
+          alt: ''
   - type: pushes
     column: 2
     background: false
@@ -195,7 +195,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         image:
           src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
@@ -206,7 +206,7 @@ blocks:
           blank: false
         image:
           src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
-          alt: ""
+          alt: ''
         offset: start
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
@@ -219,7 +219,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         image:
           src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
@@ -231,7 +231,7 @@ blocks:
           blank: false
         image:
           src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
-          alt: ""
+          alt: ''
         offset: start
         card: true
         title: Faucibus maximus nunc
@@ -245,7 +245,7 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: start
         title: Lorem ipsum
@@ -264,31 +264,31 @@ blocks:
     items:
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
-        background_color: "#A90940"
-        color: "#FFFFFF"
+        background_color: '#A90940'
+        color: '#FFFFFF'
         offset: start
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
       - cta:
           blank: false
         offset: center
-        background_color: "#56f6bf"
-        color: "#000000"
+        background_color: '#56f6bf'
+        color: '#000000'
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
       - cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
         offset: center
-        background_color: "#56f6bf"
-        color: "#000000"
+        background_color: '#56f6bf'
+        color: '#000000'
         title: Faucibus maximus nunc
         text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc.
-      - background_color: "#A90940"
-        color: "#FFFFFF"
+      - background_color: '#A90940'
+        color: '#FFFFFF'
         offset: end
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.

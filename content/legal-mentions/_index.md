@@ -3,6 +3,7 @@ isPage: true
 draft: false
 title: Legal mentions
 ---
+
 ## Fusce id imperdiet nunc
 
 Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique elit. Nunc tempus tempor neque a fringilla.

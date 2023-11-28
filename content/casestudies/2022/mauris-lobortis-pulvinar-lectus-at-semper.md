@@ -5,9 +5,9 @@ date: 2022-11-21T14:04:45.297Z
 title: Mauris lobortis pulvinar lectus at semper.
 description: Suspendisse sollicitudin dignissim velit quis consequat
 image:
-  credit: ""
+  credit: ''
   src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
-  alt: ""
+  alt: ''
 hero:
   title: Mauris lobortis pulvinar lectus at semper.
   text: Suspendisse sollicitudin dignissim velit quis consequat
@@ -16,25 +16,29 @@ blocks:
     column: 3
     background: false
     heading:
-      title: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus
+      title:
+        Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus
         dictum.
-      text: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis,
+      text:
+        Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis,
         auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris
         tincidunt velit sed rhoncus tincidunt.
     items:
       - icon: airplane
         title: Lectus dictum.
-        text: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus
+        text:
+          Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus
           dictum.
       - icon: box
         title: Nunc tempus
-        text: Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique
+        text:
+          Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique
           elit. Nunc tempus tempor neque a fringilla.
       - icon: wallet
         title: Nunc tempus felis ante
-        text: "Praesent sit amet risus augue. Aliquam gravida posuere lectus ut
+        text: 'Praesent sit amet risus augue. Aliquam gravida posuere lectus ut
           volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec
-          urna. "
+          urna. '
   - type: figure
     grid: medium
     background: false

@@ -8,13 +8,13 @@ image:
 hero:
   surtitle: Blocks
   title: Block Instagram
-  text: "Add instagram feed (with Instafeed JS library: https://instafeedjs.com)"
+  text: 'Add instagram feed (with Instafeed JS library: https://instafeedjs.com)'
   image:
     src: /images/uploads/instagram.svg
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   cta_second:
     blank: true
     text: Documentation
@@ -28,7 +28,7 @@ blocks:
     heading:
       title: Instagram feed
     limit: 4
-    token: ""
+    token: ''
     cta:
       blank: true
       text: Discover on instagram

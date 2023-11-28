@@ -17,7 +17,8 @@ hero:
   cta_second:
     blank: false
   title: Aliquam tempor tincidunt augue
-  text: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis,
+  text:
+    Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis,
     auctor fermentum magna leo eget nisi. **Fusce id imperdiet nunc**. Mauris
     tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus
     lacinia, eget sollicitudin lectus dictum.
@@ -26,7 +27,8 @@ hero:
 blocks:
   - type: quote
     background: false
-    quote: Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
+    quote:
+      Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
       egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
       Suspendisse egestas augue a egestas consectetur. Aliquam interdum
       hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel
@@ -48,16 +50,18 @@ blocks:
       - limit: 100
         prefix: +
         value: 300
-        suffix: "%"
+        suffix: '%'
         title: Fusce id imperdiet nunc.
-        text: "Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus
-          dictum. Mauris tincidunt velit sed rhoncus tincidunt. "
+        text:
+          'Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus
+          dictum. Mauris tincidunt velit sed rhoncus tincidunt. '
       - limit: 100
-        prefix: "~"
+        prefix: '~'
         value: 4000
         suffix: €
-        title: " Mauris tincidunt velit sed rhoncus tincidunt."
-        text: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis,
+        title: ' Mauris tincidunt velit sed rhoncus tincidunt.'
+        text:
+          Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis,
           auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris
           tincidunt velit sed rhoncus tincidunt.
       - limit: 100
@@ -65,6 +69,7 @@ blocks:
         suffix: K
         prefix: $
         title: Nullam lacinia ligula non facilisis eleifend
-        text: Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat.
+        text:
+          Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat.
           Quisque sed tortor vel tortor tincidunt tristique id nec urna
 ---

@@ -12,7 +12,7 @@ hero:
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   cta_second:
     blank: true
     text: Documentation
@@ -24,7 +24,8 @@ blocks:
     background: false
     grid: small
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -35,7 +36,8 @@ blocks:
     grid: small
     offset: center
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -43,14 +45,15 @@ blocks:
       nec iaculis lorem.
     cta:
       blank: false
-      url: "#"
+      url: '#'
       text: Button
   - type: paragraph
     background: false
     grid: small
     offset: end
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -62,7 +65,8 @@ blocks:
     offset: center
     align: center
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -72,7 +76,8 @@ blocks:
     background: false
     grid: medium
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -83,7 +88,8 @@ blocks:
     grid: medium
     offset: center
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -94,7 +100,8 @@ blocks:
     grid: medium
     offset: end
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -104,7 +111,8 @@ blocks:
     background: false
     grid: large
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -115,7 +123,8 @@ blocks:
     grid: large
     offset: center
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -126,7 +135,8 @@ blocks:
     grid: large
     offset: end
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -136,7 +146,8 @@ blocks:
     background: false
     grid: full
     title: Paragraph
-    text: Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+    text:
+      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at

@@ -12,13 +12,13 @@ hero:
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   cta_second:
     blank: true
     text: Documentation
     url: https://github.com/hugolify/hugolify-template/wiki/block-gallery
   title: Block gallery
-  text: "Add image gallery in grid (with Tobii JS library: https://midzer.github.io/tobii)"
+  text: 'Add image gallery in grid (with Tobii JS library: https://midzer.github.io/tobii)'
 blocks:
   - type: gallery
     column: 6
@@ -35,10 +35,10 @@ blocks:
           Serjantu](https://unsplash.com/@olgaserjantu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
           on
           [Unsplash](https://unsplash.com/collections/87604549/les-landes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        alt: ""
+        alt: ''
         src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
         legend: Lorem
-      - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg   
+      - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg
   - type: gallery
     column: 5
     background: false
@@ -54,10 +54,10 @@ blocks:
           Serjantu](https://unsplash.com/@olgaserjantu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
           on
           [Unsplash](https://unsplash.com/collections/87604549/les-landes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        alt: ""
+        alt: ''
         src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
         legend: Lorem
-      - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg 
+      - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg
   - type: gallery
     column: 4
     background: false
@@ -74,10 +74,10 @@ blocks:
           Serjantu](https://unsplash.com/@olgaserjantu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
           on
           [Unsplash](https://unsplash.com/collections/87604549/les-landes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        alt: ""
+        alt: ''
         src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
         legend: Lorem
-      - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg 
+      - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg
   - type: gallery
     column: 3
     background: false
@@ -93,7 +93,7 @@ blocks:
           Serjantu](https://unsplash.com/@olgaserjantu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
           on
           [Unsplash](https://unsplash.com/collections/87604549/les-landes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        alt: ""
+        alt: ''
         src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
         legend: Lorem
       - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg
@@ -112,7 +112,7 @@ blocks:
           Serjantu](https://unsplash.com/@olgaserjantu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
           on
           [Unsplash](https://unsplash.com/collections/87604549/les-landes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-        alt: ""
+        alt: ''
         src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
         legend: Lorem
       - src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg

@@ -10,7 +10,7 @@ hero:
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   image:
     src: /images/uploads/card-heading.svg
   cta_second:
@@ -73,7 +73,7 @@ blocks:
         icon: clouds
         cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
   - type: informations
     column: 4
@@ -88,7 +88,7 @@ blocks:
           src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
         cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
       - text: Phasellus tellus purus, pellentesque eu velit vel, faucibus maximus nunc
         title: Faucibus maximus nunc
@@ -152,6 +152,6 @@ blocks:
         text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
         cta:
           blank: false
-          url: "#"
+          url: '#'
           text: Lorem ipsum
 ---

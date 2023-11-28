@@ -11,7 +11,7 @@ hero:
     src: /images/uploads/bar-chart.svg
   cta:
     blank: false
-    url: "#main"
+    url: '#main'
     text: Discover
   cta_second:
     blank: true
@@ -32,16 +32,16 @@ blocks:
       items:
         - label: Example 1
           value: 60
-          color: "#6699bb"
+          color: '#6699bb'
         - label: Example 2
           value: 20
-          color: "#337799"
+          color: '#337799'
         - label: Example 3
           value: 30
-          color: "#115577"
+          color: '#115577'
         - label: Example 4
           value: 45
-          color: "#003355"
+          color: '#003355'
   - type: chart
     heading:
       title: Chart bar example
@@ -52,16 +52,16 @@ blocks:
       items:
         - label: Example 1
           value: 60
-          color: "#6699bb"
+          color: '#6699bb'
         - label: Example 2
           value: 20
-          color: "#337799"
+          color: '#337799'
         - label: Example 3
           value: 30
-          color: "#115577"
+          color: '#115577'
         - label: Example 4
           value: 45
-          color: "#003355"
+          color: '#003355'
   - type: chart
     heading:
       title: Chart line example
@@ -72,16 +72,16 @@ blocks:
       items:
         - label: Example 1
           value: 60
-          color: "#6699bb"
+          color: '#6699bb'
         - label: Example 2
           value: 20
-          color: "#337799"
+          color: '#337799'
         - label: Example 3
           value: 30
-          color: "#115577"
+          color: '#115577'
         - label: Example 4
           value: 45
-          color: "#003355"
+          color: '#003355'
   - type: chart
     heading:
       title: Chart doughnut example
@@ -92,16 +92,16 @@ blocks:
       items:
         - label: Example 1
           value: 60
-          color: "#6699bb"
+          color: '#6699bb'
         - label: Example 2
           value: 20
-          color: "#337799"
+          color: '#337799'
         - label: Example 3
           value: 30
-          color: "#115577"
+          color: '#115577'
         - label: Example 4
           value: 45
-          color: "#003355"
+          color: '#003355'
   - type: chart
     heading:
       title: Chart polarArea example
@@ -112,16 +112,16 @@ blocks:
       items:
         - label: Example 1
           value: 60
-          color: "#6699bb"
+          color: '#6699bb'
         - label: Example 2
           value: 20
-          color: "#337799"
+          color: '#337799'
         - label: Example 3
           value: 30
-          color: "#115577"
+          color: '#115577'
         - label: Example 4
           value: 45
-          color: "#003355"
+          color: '#003355'
   - type: chart
     heading:
       title: Chart radar example
@@ -129,8 +129,8 @@ blocks:
     chart:
       type: radar
       title: Chart radar example
-      backgroundColor: "rgba(50, 100, 150, 0.2)"
-      borderColor: "rgba(50, 100, 150)"
+      backgroundColor: 'rgba(50, 100, 150, 0.2)'
+      borderColor: 'rgba(50, 100, 150)'
       items:
         - label: Eating
           value: 65
@@ -149,7 +149,7 @@ blocks:
       title: Chart polarArea example
     text: via expert mode (json)
     chart:
-      type: polarArea 
+      type: polarArea
       data:
         lang: JSON
         json: |-
@@ -245,4 +245,3 @@ blocks:
     grid: small
     background: false
 ---
-

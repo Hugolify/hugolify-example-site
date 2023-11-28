@@ -10,7 +10,7 @@ hero:
   cta:
     blank: false
     text: See examples
-    url: "#main"
+    url: '#main'
   cta_second:
     blank: true
     url: https://github.com/hugolify/hugolify-template/wiki/block-quote
@@ -33,7 +33,8 @@ blocks:
       text: Vivamus non mauris elit
   - type: quote
     background: true
-    quote: Aliquam eget justo laoreet, sodales est in, eleifend lacus. Aenean eget
+    quote:
+      Aliquam eget justo laoreet, sodales est in, eleifend lacus. Aenean eget
       enim vitae tortor tincidunt placerat.
   - type: quote
     background: false
