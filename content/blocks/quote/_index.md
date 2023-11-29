@@ -45,4 +45,22 @@ blocks:
     author:
       title: Nulla dapibus
       text: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+  - type: quote
+    background: true
+    quote: Nunc luctus, ante vitae auctor venenatis, purus leo aliquam dui, ac
+      bibendum ante eros quis dolor. Nulla dapibus, mi ac posuere suscipit, erat
+      lacus commodo mauris, et venenatis metus felis ac justo. Duis quis
+      pharetra enim.
+    author:
+      title: Nulla dapibus
+  - type: quote
+    background: false
+    quote: Nunc luctus, ante vitae auctor venenatis, purus leo aliquam dui, ac
+      bibendum ante eros quis dolor. Nulla dapibus, mi ac posuere suscipit, erat
+      lacus commodo mauris, et venenatis metus felis ac justo. Duis quis
+      pharetra enim.
+    author:
+      title: Nulla dapibus
+      text: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+      url: /
 ---

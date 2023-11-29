@@ -35,8 +35,35 @@ Quisque vestibulum, mi eget semper laoreet, **odio quam ullamcorper turpis**, au
 - list
 - list
 - list
+  - list
+  - list
+- list
 
 Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante. Suspendisse egestas augue a egestas consectetur. Aliquam interdum hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh. Cras ac facilisis nunc.
+
+> #### Curabitur scelerisque sollicitudin lobortis
+>
+> - Massa eu varius egestas
+> - Suspendisse egestas augue a egestas consectetur
+>
+>  *Vestibulum* eget sollicitudin **dictum**.
+
+Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique elit. Nunc tempus tempor neque a fringilla.
+
+> Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+Code
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
 
 ## Hugolify shortcodes
 
@@ -49,10 +76,19 @@ Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius egest
 {{< alert text="Maecenas at quam vel lorem malesuada euismod nec vel nibh" state="success" >}}
 {{< alert text="Cras ac facilisis nunc" state="danger" >}}
 
+### Blockquote
+
+{{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" >}}
+{{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" >}}
+{{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" text="Egestas augue a egestas" >}}
+{{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" text="Egestas augue a egestas" image="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" >}}
+
 ### Buttons
 
 {{< button url="/" text="Back home" blank=false >}}
+
 {{< button url="/" text="External link button" blank=true >}}
+
 {{< button url="/" text="Secondary button" class="btn-secondary" >}}
 
 ### Details
@@ -69,6 +105,30 @@ Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius egest
 ### Highlight
 
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
+
+{{< highlight go "linenos=table,hl_lines=8 15-17,linenostart=199" >}}
+// GetTitleFunc returns a func that can be used to transform a string to
+// title case.
+//
+// The supported styles are
+//
+// - "Go" (strings.Title)
+// - "AP" (see https://www.apstylebook.com/)
+// - "Chicago" (see https://www.chicagomanualofstyle.org/home.html)
+//
+// If an unknown or empty style is provided, AP style is what you get.
+func GetTitleFunc(style string) func(s string) string {
+  switch strings.ToLower(style) {
+  case "go":
+    return strings.Title
+  case "chicago":
+    return transform.NewTitleConverter(transform.ChicagoStyle)
+  default:
+    return transform.NewTitleConverter(transform.APStyle)
+  }
+}
+{{< /highlight >}}
+
 
 ### Twitter
 
