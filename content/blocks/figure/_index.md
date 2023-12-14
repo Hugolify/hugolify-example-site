@@ -79,4 +79,14 @@ blocks:
         on
         [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     grid: full
+  - type: figure
+    screenshot: true
+    heading:
+      surtitle: Lorem ipsum dolor sit amet.
+      title: Semper urna enim, viverra faucibus tellus bibendum sed
+    figure:
+      src: /images/uploads/demo-theme-3.png
+      legend: Screenshot
+    grid: large
+    offset: center
 ---

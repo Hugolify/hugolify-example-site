@@ -1,14 +1,26 @@
 links:
-  - title: News
-    url: /news/
+  - title: Blocks
+    url: /blocks/
+  - title: Sections
     links:
-      - title: 'Lorem ipsum'
-        url: /news/lorem-ipsum/
-  - title: Projects
-    url: /projects/
-  - blank: false
-    title: Case studies
-    url: /case-studies/
-  - blank: false
-    title: Publications
-    url: /publications/
+      - title: Case studies
+        url: /case-studies/
+      - title: News
+        url: /news/
+        links:
+          - title: 'Lorem ipsum'
+            url: /news/lorem-ipsum/
+      - title: Projects
+        url: /projects/
+      - title: Publications
+        url: /publications/
+      # - title: Services
+      #   url: /services/
+      - title: Team
+        url: /team/
+  - title: Pages
+    links:
+      - title: Contact
+        url: /contact/
+      - title: Site map
+        url: /sitemap/

@@ -6,3 +6,5 @@ module:
       target: content
     - source: data
       target: data
+    - source: static
+      target: static
