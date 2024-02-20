@@ -25,9 +25,9 @@ blocks:
     grid: small
     title: Paragraph
     text:
-      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+      Curabitur nec ipsum sit amet tellus *sagittis* blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
-      lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
+      lectus ut **ligula elementum**, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
       semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
       nec iaculis lorem.
@@ -67,22 +67,27 @@ blocks:
     title: Paragraph
     text:
       Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
-      cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
+      cursus a arcu et, viverra sodales ipsum. **Duis id congue metus.** In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
-      semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
+      semper. Proin ac nunc urnat. In placerat lorem ut tempus interdum. Maecenas
       nec iaculis lorem.
   - type: paragraph
     background: false
     grid: medium
-    title: Paragraph
+    title: Paragraph with notes
     text:
-      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+      Curabitur nec ipsum sit amet tellus sagittis blandit\[\*]. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
-      sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
-      semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
+      sollicitudin eu magna sed interdum. Mauris lobortis pulvinar\[\*] lectus at
+      semper. Proin ac nunc urna. **In placerat** lorem ut tempus interdum. Maecenas
       nec iaculis lorem.
+    notes: 
+      - id: 1
+        text: Mauris lobortis pulvinar lectus at semper.
+      - id: 2
+        text: Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas nec iaculis lorem.
   - type: paragraph
     background: false
     grid: medium
