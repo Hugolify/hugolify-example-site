@@ -137,12 +137,40 @@ blocks:
         placeholder: +33 6 12 34 56 78
         autocomplete: tel
         required: false
+      - type: number
+        name: number
+        label: Number
+        required: false
+      - type: url
+        name: url
+        label: URL
+        required: false
+      - type: date
+        name: date
+        label: Date
+        required: false
+      - type: time
+        name: time
+        label: Time
+        required: false
       - type: select
         name: subject
         label: Subject
         options:
           - title: Lorem
           - title: Ipsum
+        required: false
+      - type: checkbox
+        name: checkbox
+        label: Checkbox - Semper urna enim
+        required: false
+      - type: radio
+        name: radio
+        label: Radio - Viverra faucibus tellus bibendum sed
+        required: false
+      - type: range
+        name: range
+        label: Range
         required: false
       - type: textarea
         full: true
