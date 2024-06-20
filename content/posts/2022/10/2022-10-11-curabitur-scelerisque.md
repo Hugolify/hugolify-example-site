@@ -59,11 +59,12 @@ Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget ris
 
 Code
 
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
-
+```html
+<html>
+  <head>
+    <title>Test</title>
+  </head>
+```
 
 ## Hugolify shortcodes
 
@@ -86,25 +87,28 @@ Code
 ### Buttons
 
 {{< button url="/" text="Back home" blank=false >}}
-
 {{< button url="/" text="External link button" blank=true >}}
-
 {{< button url="/" text="Secondary button" class="btn-secondary" >}}
 
 ### Details
 
 {{< details title="Maecenas at quam" text="Maecenas at quam vel lorem malesuada euismod nec vel nibh" >}}
 
-## Hugo shortcodes
-
 ### Figure
 
-{{< figure src="/images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg" legend="Legend" >}}
 {{< figure src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" alt="Alternative text" legend="Donec varius velit nisi, a accumsan" credit="Donec varius velit nisi, a accumsan odio molestie ut" >}}
+{{< figure src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" alt="Alternative text" legend="Donec varius velit nisi, a accumsan"  >}}
+{{< figure src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" alt="Alternative text" credit="Donec varius velit nisi, a accumsan odio molestie ut" >}}
+
+### Video
+
+{{< video mp4="/videos/lawyerify-independent.mp4" webm="/videos/lawyerify-independent.mp4" legend="Donec varius velit nisi, a accumsan" credit="Donec varius velit nisi, a accumsan odio molestie ut" controls=true screenshot=true >}}
+{{< video mp4="/videos/lawyerify-independent.mp4" webm="/videos/lawyerify-independent.mp4" legend="Donec varius velit nisi, a accumsan" controls=true screenshot=true >}}
+{{< video mp4="/videos/lawyerify-independent.mp4" webm="/videos/lawyerify-independent.mp4" credit="Donec varius velit nisi, a accumsan odio molestie ut" controls=true screenshot=true >}}
+
+## Hugo shortcodes
 
 ### Highlight
-
-{{< highlight go >}} A bunch of code here {{< /highlight >}}
 
 {{< highlight go "linenos=table,hl_lines=8 15-17,linenostart=199" >}}
 // GetTitleFunc returns a func that can be used to transform a string to
@@ -128,7 +132,6 @@ func GetTitleFunc(style string) func(s string) string {
   }
 }
 {{< /highlight >}}
-
 
 ### Twitter
 
