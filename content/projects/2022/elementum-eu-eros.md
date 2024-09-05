@@ -15,6 +15,12 @@ datas:
   - title: Client
     text: Lorem ipsum
 images:
+  - half: true
+    src: /images/uploads/robin-goutard-3evcj31p35q-unsplash.jpg
+  - half: true
+    src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
+  - half: false
+    src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
   - half: false
     src: /images/uploads/andrea-villiers-qgift_rbhyg-unsplash.jpg
 ---

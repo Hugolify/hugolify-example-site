@@ -1,0 +1,33 @@
+---
+isPage: true
+draft: false
+title: Instagram
+description: Add instagram feed
+icon: instagram
+hero:
+  surtitle: Blocks
+  title: Block Instagram
+  text: 'Add instagram feed (with Instafeed JS library: https://instafeedjs.com)'
+  cta:
+    blank: false
+    text: See examples
+    url: '#main'
+  cta_second:
+    blank: true
+    text: Documentation
+    url: https://github.com/hugolify/hugolify-template/wiki/block-instagram
+blocks:
+  - type: alert
+    state: danger
+    text: A valid access_token from Instagram is required
+  - type: instagram
+    background: false
+    heading:
+      title: Instagram feed
+    limit: 4
+    token: ''
+    cta:
+      blank: true
+      text: Discover on instagram
+      url: https://www.instagram.com/sebouorhum
+---
