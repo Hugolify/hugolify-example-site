@@ -40,10 +40,10 @@ blocks:
         cta:
           url: "#"
           text: CTA
-      - is_primary: true
-        title: Consectetur
+      - title: Consectetur
         text: Vestibulum ex metus, rhoncus non diam vitae.
         badge: Recommended
+        is_highlighted: true
         offer:
           price: 99
         arguments:
