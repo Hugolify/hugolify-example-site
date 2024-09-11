@@ -24,3 +24,6 @@ links:
         url: /contact/
       - title: Site map
         url: /sitemap/
+  - title: highlighted button
+    url: /
+    is_highlighted: true
