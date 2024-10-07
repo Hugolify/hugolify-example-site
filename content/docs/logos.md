@@ -51,19 +51,20 @@ blocks:
     layout: carousel
     background: false
     carousel:
-      perMove: 1
-      perPage: 8
-      interval: 1000
-      autoplay: true
-      type: loop
-      arrows: true
-      gap: 1.5rem
+      params:
+        perMove: 1
+        perPage: 8
+        interval: 1000
+        autoplay: true
+        type: loop
+        arrows: true
+        gap: 1.5rem
       responsive:
         - breakpoint: 640
-          carousel:
+          params:
             perPage: 3
         - breakpoint: 768
-          carousel:
+          params:
             perPage: 4
     heading:
       title: Carousel (8 columns)

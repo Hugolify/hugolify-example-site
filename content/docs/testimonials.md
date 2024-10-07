@@ -59,25 +59,26 @@ blocks:
       text: Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi. Blandit dapibus erat.
     layout: carousel
     carousel:
-      type: loop
-      focus: center
-      perPage: 5
-      arrows: false
-      autoplay: true
-      gap: 1.5rem
-      padding: 3rem
+      params:
+        type: loop
+        focus: center
+        perPage: 5
+        arrows: false
+        autoplay: true
+        gap: 1.5rem
+        padding: 3rem
       responsive:
         - breakpoint: 640
-          carousel:
+          params:
             perPage: 1
         - breakpoint: 1024
-          carousel:
+          params:
             perPage: 2
         - breakpoint: 1280
-          carousel:
+          params:
             perPage: 3
         - breakpoint: 1440
-          carousel:
+          params:
             perPage: 4
     items:
       - quote: Nullam pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum nibh erat, eget interdum nisi auctor eget. Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi.

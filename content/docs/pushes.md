@@ -44,9 +44,10 @@ blocks:
       text: Nam eleifend nisl tellus, porta lacinia
     layout: carousel
     carousel:
-      type: loop
-      autoplay: true
-      pagination: true
+      params:
+        type: loop
+        autoplay: true
+        pagination: true
     items:
       - cta:
           blank: false
