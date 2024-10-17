@@ -15,19 +15,18 @@ hero:
   cta_second:
     blank: true
     text: Documentation
-    url: https://github.com/hugolify/hugolify-template/wiki/block-instagram
+    url: https://www.hugolify.io/docs/blocks/instagram/
 blocks:
   - type: alert
     state: danger
-    text: A valid access_token from Instagram is required
+    text: A valid access_token from Instagram
   - type: instagram
     background: false
     heading:
       title: Instagram feed
     limit: 4
-    token: ''
-    cta:
-      blank: true
-      text: Discover on instagram
-      url: https://www.instagram.com/sebouorhum
+    ctas:
+      - text: Discover on instagram
+        url: https://www.instagram.com/sebouorhum
+        blank: true
 ---
