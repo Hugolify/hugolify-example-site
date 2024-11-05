@@ -54,16 +54,16 @@ blocks:
       params:
         perMove: 1
         perPage: 8
-        interval: 1000
+        interval: 2000
         autoplay: true
         type: loop
         arrows: true
         gap: 1.5rem
       responsive:
-        - breakpoint: 640
+        - breakpoints: 640
           params:
             perPage: 3
-        - breakpoint: 768
+        - breakpoints: 768
           params:
             perPage: 4
     heading:

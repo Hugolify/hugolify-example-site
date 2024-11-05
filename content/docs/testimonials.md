@@ -68,16 +68,16 @@ blocks:
         gap: 1.5rem
         padding: 3rem
       responsive:
-        - breakpoint: 640
+        - breakpoints: 640
           params:
             perPage: 1
-        - breakpoint: 1024
+        - breakpoints: 1024
           params:
             perPage: 2
-        - breakpoint: 1280
+        - breakpoints: 1280
           params:
             perPage: 3
-        - breakpoint: 1440
+        - breakpoints: 1440
           params:
             perPage: 4
     items:
