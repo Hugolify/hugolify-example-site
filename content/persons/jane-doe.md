@@ -4,6 +4,9 @@ title: Jane Doe
 description: Suspendisse efficitur leo non risus sagittis, sit amet vulputate libero
   commodo. Suspendisse id ipsum vehicula, tempus eros non, facilisis metus.
   Suspendisse cursus ut tortor sed mattis.
+persons_places:
+  - le-phare-du-cap-ferret
+  - le-phare-de-contis
 contact:
   email: janedoe@email-lorem-ipsum.com
   phone: +33 (0) 1 12 34 56 78

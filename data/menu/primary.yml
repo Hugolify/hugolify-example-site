@@ -7,23 +7,25 @@ links:
         url: /case-studies/
       - title: News
         url: /news/
-        links:
-          - title: 'Lorem ipsum'
-            url: /news/lorem-ipsum/
       - title: Projects
         url: /projects/
       - title: Publications
         url: /publications/
       - title: Services
         url: /services/
+      - title: Places
+        url: /places/
       - title: Team
         url: /team/
+      - title: Jobs
+        url: /jobs/
   - title: Pages
     links:
       - title: Contact
         url: /contact/
       - title: Site map
         url: /sitemap/
-  - title: highlighted button
-    url: /
+  - title: Hugolify docs
+    url: https://www.hugolify.io/docs/
+    blank: true
     is_highlighted: true
