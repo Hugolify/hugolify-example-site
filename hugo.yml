@@ -10,3 +10,7 @@ module:
       target: layouts
     - source: static
       target: static
+
+params:
+  places:
+    map: true
