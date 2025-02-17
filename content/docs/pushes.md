@@ -1,7 +1,9 @@
 ---
 isPage: true
 draft: false
-title: Push
+title: Pushes
+aliases: 
+  - /blocks/push
 description: Add some cards push with image and button in column.
 icon: credit-card-2-front
 hero:
