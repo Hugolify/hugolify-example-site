@@ -81,6 +81,18 @@ blocks:
       surtitle: Lorem ipsum dolor sit amet.
       title: Semper urna enim, viverra faucibus tellus bibendum sed
     figure:
+      src: /images/uploads/yann-behr-qzugs6bpcr0-unsplash.jpg
+      legend: Figure (container)
+      credit: Photo by [yann
+        behr](https://unsplash.com/@yannbehr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+        on
+        [Unsplash](https://unsplash.com/s/photos/cap-ferret?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    grid: container
+  - type: figure
+    heading:
+      surtitle: Lorem ipsum dolor sit amet.
+      title: Semper urna enim, viverra faucibus tellus bibendum sed
+    figure:
       src: /images/uploads/demo-theme-3.png
       screenshot: true
       legend: Screenshot

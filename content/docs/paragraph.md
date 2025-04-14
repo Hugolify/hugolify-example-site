@@ -146,7 +146,7 @@ blocks:
       nec iaculis lorem.
   - type: paragraph
     background: false
-    grid: full
+    grid: container
     title: Paragraph
     text:
       Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,

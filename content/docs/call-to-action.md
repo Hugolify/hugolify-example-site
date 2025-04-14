@@ -18,35 +18,61 @@ hero:
   text: Add one or two buttons with link
 blocks:
   - type: cta
-    cta:
-      blank: true
-      text: Button with external link
-      url: '#'
     background: false
+    ctas:
+      - blank: true
+        text: Button with external link
+        url: '#'
   - type: cta
-    cta:
-      blank: false
-      url: '#'
-      text: Button
+    ctas:
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Second button
+    background: false
+    heading:
+      title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+      text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
+        pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+        nibh erat, eget interdum nisi auctor eget.
+  - type: cta
+    ctas:
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Button
     background: true
     heading:
       title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
       text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
         pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
         nibh erat, eget interdum nisi auctor eget.
+
   - type: cta
-    cta:
-      blank: false
-      url: '#'
-      text: Button
-    cta_second:
-      blank: false
-      url: '#'
-      text: Second button
+    ctas:
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Button
     background: false
     heading:
       title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
-      text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
-        pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
-        nibh erat, eget interdum nisi auctor eget.
 ---
