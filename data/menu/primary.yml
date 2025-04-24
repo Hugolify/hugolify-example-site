@@ -25,6 +25,8 @@ links:
     links:
       - title: Contact
         url: /contact/
+      - title: Shortcodes
+        url: /shortcodes/
       - title: Site map
         url: /sitemap/
   - title: Hugolify docs
