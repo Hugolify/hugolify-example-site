@@ -34,7 +34,7 @@ blocks:
     offset: center
     title: Paragraph
     text:
-      Curabitur nec ipsum sit amet tellus sagittis blandit. Nulla massa nibh,
+      Curabitur nec ipsum [*] sit amet tellus sagittis blandit. Nulla massa nibh,
       cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
       lectus ut ligula elementum, ac commodo tortor rhoncus. Vivamus
       sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
@@ -44,6 +44,10 @@ blocks:
       blank: false
       url: '#'
       text: Button
+    notes:
+      - text: "C. Poliquin fut un éminent spécialiste canadien du développement de la
+          force, auteur de nombreux ouvrages dont The Poliquin Principles -
+          1997, 2006 "
   - type: paragraph
     background: false
     grid: small
