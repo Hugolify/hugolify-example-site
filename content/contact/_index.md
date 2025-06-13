@@ -36,7 +36,8 @@ blocks:
       text: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum
         lectus.
     items:
-      - title: Vestibulum sed bibendum lectus?
+      - summary: Vestibulum sed bibendum lectus?
+        title: FAQ
         text: >-
           Duis placerat quam et ante **pellentesque**, et porttitor lectus
           sollicitudin. Fusce maximus hendrerit eros, sed pulvinar erat pretium
