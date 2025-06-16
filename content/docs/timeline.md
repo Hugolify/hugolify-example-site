@@ -6,8 +6,8 @@ icon: list-ol
 description: Add timeline section
 hero:
   surtitle: Blocks
-  title: Block title
-  text: Add title section
+  title: Block timeline
+  text: Add timeline section
   cta:
     blank: false
     text: See examples
