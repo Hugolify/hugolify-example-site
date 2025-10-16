@@ -5,22 +5,30 @@ links:
     links:
       - title: Case studies
         url: /case-studies/
+      - title: Docs
+        url: /docs/
+      - title: Events
+        url: /events/
       - title: Expertises
         url: /expertises/
-      - title: News
+      - title: Jobs
+        url: /jobs/
+      - title: Persons
+        url: /team/
+      - title: Places
+        url: /places/
+      - title: Posts
         url: /news/
+      - title: Products
+        url: /products/
       - title: Projects
         url: /projects/
       - title: Publications
         url: /publications/
+      - title: Real estates
+        url: /realestates/
       - title: Services
         url: /services/
-      - title: Places
-        url: /places/
-      - title: Team
-        url: /team/
-      - title: Jobs
-        url: /jobs/
   - title: Pages
     links:
       - title: Contact
