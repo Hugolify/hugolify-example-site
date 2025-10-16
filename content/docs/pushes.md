@@ -4,20 +4,22 @@ draft: false
 title: Pushes
 aliases: 
   - /blocks/push
-description: Add some cards push with image and button in column.
+description: Add some cards push with image and button in column or carousel.
 icon: credit-card-2-front
 hero:
   surtitle: Blocks
   title: Block pushes
-  text: Add some cards push with image and button in column.
-  cta:
-    text: See examples
-    url: '#main'
-    blank: false
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/pushes/
+  text: Add some cards push with image and button in column or carousel.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/pushes/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/pushes.md
+      blank: true
+    - text: SplideJS library
+      url: https://splidejs.com/
+      blank: true
 blocks:
   - type: alert
     state: warning

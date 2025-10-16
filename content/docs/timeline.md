@@ -7,15 +7,14 @@ description: Add timeline section
 hero:
   surtitle: Blocks
   title: Block timeline
-  text: Add timeline section
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/timeline/
+  text: Add timeline section.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/timeline/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/timeline.md
+      blank: true
 blocks:
   - type: timeline
     background: false

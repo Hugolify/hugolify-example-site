@@ -2,20 +2,22 @@
 isPage: true
 draft: false
 title: Testimonials
-description: Add some testimonials
+description: Add some testimonials in grid or carousel
 icon: blockquote-left
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    url: https://www.hugolify.io/docs/blocks/testimonials/
-    text: Documentation
   title: Block testimonials
-  text: Add some testimonials
+  text: Add some testimonials in grid or carousel.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/testimonials/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/testimonials.md
+      blank: true
+    - text: SplideJS library
+      url: https://splidejs.com/
+      blank: true
 blocks:
   - type: testimonials
     background: false

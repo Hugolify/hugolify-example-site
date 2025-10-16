@@ -7,15 +7,17 @@ icon: instagram
 hero:
   surtitle: Blocks
   title: Block Instagram
-  text: 'Add instagram feed (with Instafeed JS library: https://instafeedjs.com)'
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/instagram/
+  text: Add instagram feed (with Instafeed JS library).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/instagram/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/instagram.md
+      blank: true
+    - text: Instafeed JS library
+      url: https://instafeedjs.com
+      blank: true
 blocks:
   - type: alert
     state: danger

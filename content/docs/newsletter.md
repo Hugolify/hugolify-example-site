@@ -7,15 +7,14 @@ icon: envelope
 hero:
   surtitle: Blocks
   title: Block newsletter
-  text: Add a newsletter signup form (Mailchimp, Brevo…)
-  cta:
-    blank: false
-    url: '#main'
-    text: See example
-  cta_second:
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/newsletter/
-    blank: true
+  text: Add a newsletter signup form (Mailchimp, Brevo…).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/newsletter/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/newsletter.md
+      blank: true
 blocks:
   - type: newsletter
     background: false

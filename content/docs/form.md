@@ -8,14 +8,13 @@ hero:
   surtitle: Blocks
   title: Block form
   text: Add form (connect with netlify), input, textarea and select available. 4 widths available.
-  cta:
-    blank: false
-    text: See examples
-    url: "#main"
-  cta_second:
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/form/
-    blank: true
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/form/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/form.md
+      blank: true
   image:
     src: /images/uploads/input-cursor-text.svg
 blocks:

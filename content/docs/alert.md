@@ -6,16 +6,15 @@ description: Add alert section with state
 icon: exclamation-octagon
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/alert/
-    blank: true
   title: Block alert
-  text: Add alert section with state
+  text: Add alert section with state.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/alert/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/alert.md
+      blank: true
 blocks:
   - type: alert
     state: light

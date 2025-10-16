@@ -7,15 +7,17 @@ icon: search
 hero:
   surtitle: Blocks
   title: Block search
-  text: Add search section
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/search/
+  text: Add search section.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/search/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/search.md
+      blank: true
+    - text: PageFind library
+      url: https://pagefind.app/
+      blank: true
 blocks:
   - type: alert
     state: danger

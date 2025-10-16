@@ -7,19 +7,20 @@ icon: geo-alt
 hero:
   surtitle: Blocks
   title: Block map
-  text: Add a map (OpenStreetMap with Leaflet JS library)
-
-    - https://www.openstreetmap.fr/
-
-    - https://leafletjs.com/
-  cta:
-    blank: false
-    url: '#main'
-    text: See example
-  cta_second:
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/map/
-    blank: true
+  text: Add a map (OpenStreetMap with Leaflet JS library).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/map/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/map.md
+      blank: true
+    - text: Open street map
+      url: https://www.openstreetmap.fr/
+      blank: true
+    - text: Leaflet JS library
+      url: https://leafletjs.com/
+      blank: true
 blocks:
   - type: map
     background: false

@@ -6,16 +6,15 @@ description: Add quote and author
 icon: blockquote-left
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    url: https://www.hugolify.io/docs/blocks/quote/
-    text: Documentation
   title: Block quote
-  text: Add quote and author
+  text: Add quote and author.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/quote/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/quote.md
+      blank: true
 blocks:
   - type: quote
     background: false

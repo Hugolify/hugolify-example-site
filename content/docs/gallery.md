@@ -6,16 +6,18 @@ description: Add image gallery in grid
 icon: grid-3x2-gap
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/gallery/
   title: Block gallery
-  text: 'Add image gallery in grid (with Tobii JS library: https://midzer.github.io/tobii)'
+  text: Add image gallery in grid (with Tobii JS library).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/gallery/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/gallery.md
+      blank: true
+    - text: Tobii JS library
+      url: https://midzer.github.io/tobii
+      blank: true
 blocks:
   - type: gallery
     column: 6

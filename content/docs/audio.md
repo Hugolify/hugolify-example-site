@@ -2,20 +2,19 @@
 isPage: true
 draft: false
 title: Audio
-description: Add audio section
+description: Add MP3 or OGG audio section.
 icon: soundwave
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/audio/
-    blank: true
   title: Block audio
-  text: Add audio section
+  text: Add MP3 or OGG audio section.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/audio/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/audio.md
+      blank: true
 blocks:
   - type: audio
     background: false

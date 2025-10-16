@@ -7,15 +7,14 @@ icon: images
 hero:
   surtitle: Blocks
   title: Block Images
-  text: Add image list in one or two columns
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/images/
+  text: Add image list in one or two columns.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/images/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/images.md
+      blank: true
 blocks:
   - type: images
     background: false

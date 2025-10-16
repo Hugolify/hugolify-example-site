@@ -6,16 +6,15 @@ description: Add some cards informations in column. Icon, images and button are 
 icon: card-heading
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/informations/
   title: Block informations
-  text: Add some cards informations in column. Icon, images and button are available
+  text: Add some cards informations in column. Icon, images and button are available.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/informations/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/informations.md
+      blank: true
 blocks:
   - type: informations
     column: 4

@@ -7,15 +7,14 @@ icon: type-h2
 hero:
   surtitle: Blocks
   title: Block title
-  text: Add title section
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/title/
+  text: Add title section.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/title/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/title.md
+      blank: true
 blocks:
   - type: title
     background: false

@@ -7,15 +7,14 @@ icon: clock-history
 hero:
   surtitle: Blocks
   title: Block latest
-  text: Add latest items section (posts, projects, publications, casestudies…)
-  cta:
-    blank: false
-    url: '#main'
-    text: See examples
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/latest/
+  text: Add latest items section (posts, projects, publications, casestudies…).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/latest/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/informatilatestons.md
+      blank: true
 blocks:
   - type: latest
     count: 3

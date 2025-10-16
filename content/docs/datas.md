@@ -6,16 +6,15 @@ description: Add some datas in columns (with gauge or not)
 icon: percent
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/datas/
   title: Blocks datas
-  text: Add some datas in columns (with gauge or not)
+  text: Add some datas in columns (with gauge or not).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/datas/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/datas.md
+      blank: true
 blocks:
   - type: datas
     column: 3

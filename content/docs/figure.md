@@ -7,15 +7,14 @@ icon: card-image
 hero:
   surtitle: Blocks
   title: Block figure
-  text: Add image block with legend and credits, 4 widths available
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/figure/
-    blank: true
+  text: Add image block with legend and credits, 4 widths available.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/figure/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/figure.md
+      blank: true
 blocks:
   - type: figure
     figure:

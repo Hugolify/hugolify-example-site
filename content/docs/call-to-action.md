@@ -6,16 +6,15 @@ description: Add one or two buttons with link
 icon: link
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    url: '#main'
-    text: Discover
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/cta/
   title: Block call to action
-  text: Add one or two buttons with link
+  text: Add one or two buttons with link.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/cta/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/cta.md
+      blank: true
 blocks:
   - type: cta
     background: false

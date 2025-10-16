@@ -7,15 +7,14 @@ icon: check-all
 hero:
   surtitle: Blocks
   title: Selected sections
-  text: Add selected items section (posts, projects, publications, casestudies…)
-  cta:
-    text: See examples
-    blank: false
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/selected/
+  text: Add selected items section (posts, projects, publications, casestudies…).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/selected/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/selected.md
+      blank: true
 blocks:
   - type: selected-projects
     background: false

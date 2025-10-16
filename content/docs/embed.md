@@ -8,14 +8,13 @@ hero:
   surtitle: Blocks
   title: Block embed
   text: Add embed like video youtube, typeform, calendly…
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/embed/
-    blank: true
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/embed/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/embed.md
+      blank: true
 blocks:
   - type: embed
     background: false

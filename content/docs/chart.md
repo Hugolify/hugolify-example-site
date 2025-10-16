@@ -6,18 +6,18 @@ description: Add different chart (bar, line, pie…)
 icon: bar-chart
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    url: '#main'
-    text: Discover
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/chart/
   title: Block chart
-  text: Add different charts like bar, line, pie, radar… (with Chart JS library)
-
-    - https://www.chartjs.org/
+  text: Add different charts like bar, line, pie, radar… (with Chart JS library).
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/chart/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/chart.md
+      blank: true
+    - text: Chart JS library
+      url: https://www.chartjs.org/
+      blank: true
 blocks:
   - type: chart
     heading:

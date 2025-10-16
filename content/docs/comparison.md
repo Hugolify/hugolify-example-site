@@ -7,15 +7,14 @@ description: Add comparison section with prices, arguments and CTA
 hero:
   surtitle: Blocks
   title: Block comparison
-  text: Add comparison section with prices, arguments and CTA
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/comparison/
+  text: Add comparison section with prices, arguments and CTA.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/comparison/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/comparison.md
+      blank: true
 blocks:
   - type: comparison
     background: false

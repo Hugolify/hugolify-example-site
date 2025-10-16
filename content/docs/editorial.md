@@ -2,27 +2,26 @@
 isPage: true
 draft: false
 title: Editorial
-description: Add section with content and media
+description: Add section with content (texts and buttons) and media
 icon: postcard
 hero:
   surtitle: Blocks
-  cta:
-    blank: false
-    text: See examples
-    url: "#main"
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/editorial/
   title: Block editorial
-  text: Add section with content (title, text and button) and media
+  text: Add section with content (texts and buttons) and media.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/editorial/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/editorial.md
+      blank: true
 blocks:
   - type: editorial
     direction: ltr
-    cta:
-      blank: false
-      text: Button
-      url: "#"
+    ctas:
+      - blank: false
+        text: Button
+        url: "#"
     background: false
     surtitle: Surtitle
     title: Text on the left, image on the right
@@ -36,10 +35,13 @@ blocks:
       src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
   - type: editorial
     direction: rtl
-    cta:
-      blank: false
-      text: Button
-      url: "#"
+    ctas:
+      - blank: false
+        text: Button
+        url: "#"
+      - blank: false
+        text: Second Button
+        url: "#"
     background: false
     title: Editorial
     title: Text on the right, image on the left

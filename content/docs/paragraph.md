@@ -7,15 +7,14 @@ icon: text-paragraph
 hero:
   surtitle: Blocks
   title: Block paragraph
-  text: Add title and some text, 4 widths and 3 alignments available
-  cta:
-    blank: false
-    text: See examples
-    url: '#main'
-  cta_second:
-    blank: true
-    text: Documentation
-    url: https://www.hugolify.io/docs/blocks/paragraph/
+  text: Add title and some text, 4 widths and 3 alignments available.
+  ctas:
+    - text: Documentation
+      url: https://www.hugolify.io/docs/blocks/paragraph/
+      blank: true
+    - text: Page code on Github
+      url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/paragraph.md
+      blank: true
 blocks:
   - type: paragraph
     background: false
