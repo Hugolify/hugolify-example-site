@@ -43,7 +43,6 @@ blocks:
         text: Second Button
         url: "#"
     background: false
-    title: Editorial
     title: Text on the right, image on the left
     text: >-
       Phasellus *tellus* purus, pellentesque eu velit vel, faucibus maximus
