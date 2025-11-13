@@ -97,8 +97,7 @@ blocks:
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
-          alt: ''
+          src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
   - type: pushes
     column: 1
     background: false
@@ -132,8 +131,7 @@ blocks:
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
-          alt: ''
+          src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
   - type: pushes
     column: 1
     background: false
@@ -150,8 +148,7 @@ blocks:
         title: Lorem ipsum
         text: Nam eleifend nisl tellus, porta lacinia lectus sollicitudin non.
         image:
-          src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
-          alt: ''
+          src: /images/uploads/robin-goutard-couufh79uzq-unsplash.jpg
   - type: pushes
     column: 1
     background: false
