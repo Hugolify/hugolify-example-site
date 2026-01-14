@@ -5,7 +5,7 @@ title: Shortcodes
 ---
 ## Hugolify shortcodes
 
-### Alerts
+### Alert
 
 {{< alert text="Curabitur scelerisque sollicitudin lobortis" >}}
 {{< alert text="Suspendisse egestas augue a egestas consectetur" state="light" >}}
@@ -14,7 +14,23 @@ title: Shortcodes
 {{< alert text="Maecenas at quam vel lorem malesuada euismod nec vel nibh" state="success" >}}
 {{< alert text="Cras ac facilisis nunc" state="danger" >}}
 
-## Badges
+### Alert block
+
+{{< alert-block title="Lorem ipsum" state="info" >}}
+Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
+egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
+
+* Suspendisse egestas augue a egestas consectetur. 
+* Aliquam interdum hendrerit porta. 
+* Maecenas at quam vel lorem malesuada euismod nec vel nibh. 
+* Cras ac facilisis nunc.
+{{< /alert-block >}}
+
+{{< alert-block state="warning" >}}
+Hugolify uses {{< blank_link link="https://github.com/twbs/bootstrap/blob/v5.3.8/scss/_variables.scss" text="Bootstrap variables" >}} and {{< blank_link link="https://github.com/Hugolify/hugolify-theme/blob/main/assets/sass/abstracts/_variables.default.sass" text="Hugolify variables" >}}.
+{{< /alert-block >}}
+
+### Badge
 
 {{< badge state="warning" text="Lorem" >}}
 {{< badge state="danger" text="Lorem" >}}
@@ -30,11 +46,15 @@ title: Shortcodes
 {{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" text="Egestas augue a egestas" >}}
 {{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" text="Egestas augue a egestas" image="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" >}}
 
-### Buttons
+### Button
 
 {{< button url="/" text="Back home" blank=false >}}
 {{< button url="/" text="External link button" blank=true >}}
 {{< button url="/" text="Secondary button" class="btn-secondary" >}}
+
+### Dailymotion
+
+{{< dailymotion x9t0c4w >}}
 
 ### Details
 
@@ -44,19 +64,33 @@ Maecenas at quam vel lorem malesuada euismod nec vel nibh
 
 ### Figure
 
-{{< figure src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" alt="Alternative text" legend="Donec varius velit nisi, a accumsan" credit="Donec varius velit nisi, a accumsan odio molestie ut" >}}
-{{< figure src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" alt="Alternative text" legend="Donec varius velit nisi, a accumsan"  >}}
-{{< figure src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" alt="Alternative text" credit="Donec varius velit nisi, a accumsan odio molestie ut" >}}
+{{< figure
+  src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg"
+  alt="Alternative text"
+  legend="Donec varius velit nisi, a accumsan" 
+  credit="Donec varius velit nisi, a accumsan odio molestie ut"
+>}}
+
+{{< figure
+  src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg"
+  alt="Alternative text"
+  link="#"
+  legend="Donec varius velit nisi, a accumsan"
+  credit="Donec varius velit nisi, a accumsan odio molestie ut"
+  class="p-2 border border-dark bg-light"
+>}}
 
 ### Map
 
 {{< map markers=`{"coordinates":[44.8425666,-0.5737107]},{"coordinates":[45.8425666,1.5937107]},{"coordinates":[46.8425666,-0.5737107]}` >}}
 
+### Twitch
+
+{{< twitch 2656646242 >}}
+
 ### Video
 
 {{< video mp4="/videos/lawyerify-independent.mp4" webm="/videos/lawyerify-independent.mp4" legend="Donec varius velit nisi, a accumsan" credit="Donec varius velit nisi, a accumsan odio molestie ut" controls=true screenshot=true >}}
-{{< video mp4="/videos/lawyerify-independent.mp4" webm="/videos/lawyerify-independent.mp4" legend="Donec varius velit nisi, a accumsan" controls=true screenshot=true >}}
-{{< video mp4="/videos/lawyerify-independent.mp4" webm="/videos/lawyerify-independent.mp4" credit="Donec varius velit nisi, a accumsan odio molestie ut" controls=true screenshot=true >}}
 
 ## Hugo shortcodes
 
@@ -85,6 +119,10 @@ func GetTitleFunc(style string) func(s string) string {
 }
 {{< /highlight >}}
 
+### QR
+
+{{< qr text="https://gohugo.io" />}}
+
 ### Twitter
 
 {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
@@ -95,4 +133,4 @@ func GetTitleFunc(style string) func(s string) string {
 
 ### Youtube
 
-{{< youtube id="t9H_Jl1rc6k" title="Proin maximus" class="youtube" >}}
+{{< youtube id="JP8HNPKQWfI" title="Proin maximus" class="youtube" >}}
