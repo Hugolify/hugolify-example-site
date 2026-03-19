@@ -125,7 +125,7 @@ func GetTitleFunc(style string) func(s string) string {
 
 ### Twitter
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
 
 ### Vimeo
 
