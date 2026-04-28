@@ -50,7 +50,15 @@ Hugolify uses {{< blank_link link="https://github.com/twbs/bootstrap/blob/v5.3.8
 
 {{< button url="/" text="Back home" blank=false >}}
 {{< button url="/" text="External link button" blank=true >}}
+{{< button url="/" text="Danger button" class="btn-danger" >}}
+{{< button url="/" text="Dark button" class="btn-dark" >}}
+{{< button url="/" text="Ghost button" class="btn-ghost" >}}
+{{< button url="/" text="Info button" class="btn-info" >}}
+{{< button url="/" text="Light button" class="btn-light" >}}
+{{< button url="/" text="Link button" class="btn-link" >}}
 {{< button url="/" text="Secondary button" class="btn-secondary" >}}
+{{< button url="/" text="Success button" class="btn-success" >}}
+{{< button url="/" text="Warning button" class="btn-warning" >}}
 
 ### Dailymotion
 

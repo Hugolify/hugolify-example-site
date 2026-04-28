@@ -33,6 +33,8 @@ links:
     links:
       - title: Contact
         url: /contact/
+      - title: Markdown
+        url: /markdown/
       - title: Shortcodes
         url: /shortcodes/
       - title: Site map
