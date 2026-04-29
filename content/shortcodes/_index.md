@@ -32,8 +32,14 @@ Hugolify uses {{< blank_link link="https://github.com/twbs/bootstrap/blob/v5.3.8
 
 ### Badge
 
-{{< badge state="warning" text="Lorem" >}}
-{{< badge state="danger" text="Lorem" >}}
+{{< badge state="danger" text="Danger" >}}
+{{< badge state="dark" text="Dark" >}}
+{{< badge state="info" text="Info" >}}
+{{< badge state="light" text="Light" >}}
+{{< badge state="primary" text="Primary" >}}
+{{< badge state="secondary" text="Secondary" >}}
+{{< badge state="success" text="Success" >}}
+{{< badge state="warning" text="Warning" >}}
 
 ### Blank link
 
