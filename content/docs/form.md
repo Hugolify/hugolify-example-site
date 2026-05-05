@@ -160,6 +160,10 @@ blocks:
         name: checkbox
         label: Checkbox - Semper urna enim
         required: false
+      - type: switch
+        name: checkbox
+        label: Switch
+        required: false
       - type: radio
         name: radio
         label: Radio - Viverra faucibus tellus bibendum sed
@@ -167,11 +171,88 @@ blocks:
       - type: range
         name: range
         label: Range
-        required: false
       - type: textarea
         full: true
         name: comment
         label: Message
         placeholder: Your message…
         required: true
+      - type: text
+        name: readonly
+        label: Read only
+        value: Read only
+        readonly: true
+  - type: form
+    background: false
+    name: contact
+    submit: Send message
+    offset: center
+    grid: large
+    heading:
+      title: Lorem ipsum dolor sit amet.
+      text: Semper urna enim, viverra faucibus tellus bibendum sed
+    items:
+      - type: text
+        name: name
+        label: Name
+        placeholder: John Doe
+        autocomplete: name
+        disabled: true
+      - type: email
+        name: email
+        label: Email
+        placeholder: john.doe@domain.com
+        autocomplete: email
+        disabled: true
+      - type: tel
+        name: telephone
+        label: Telephone
+        placeholder: +33 6 12 34 56 78
+        autocomplete: tel
+        disabled: true
+      - type: number
+        name: number
+        label: Number
+        disabled: true
+      - type: url
+        name: url
+        label: URL
+        disabled: true
+      - type: date
+        name: date
+        label: Date
+        disabled: true
+      - type: time
+        name: time
+        label: Time
+        disabled: true
+      - type: select
+        name: subject
+        label: Subject
+        options:
+          - title: Lorem
+          - title: Ipsum
+        disabled: true
+      - type: checkbox
+        name: checkbox
+        label: Checkbox - Semper urna enim
+        disabled: true
+      - type: switch
+        name: checkbox
+        label: Switch
+        disabled: true
+      - type: radio
+        name: radio
+        label: Radio - Viverra faucibus tellus bibendum sed
+        disabled: true
+      - type: range
+        name: range
+        label: Range
+        disabled: true
+      - type: textarea
+        full: true
+        name: comment
+        label: Message
+        placeholder: Your message…
+        disabled: true
 ---
