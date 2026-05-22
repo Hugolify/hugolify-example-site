@@ -182,6 +182,9 @@ blocks:
         label: Read only
         value: Read only
         readonly: true
+      - type: file
+        name: file
+        label: File
   - type: form
     background: false
     name: contact
@@ -254,5 +257,9 @@ blocks:
         name: comment
         label: Message
         placeholder: Your message…
+        disabled: true
+      - type: file
+        name: file
+        label: File
         disabled: true
 ---
