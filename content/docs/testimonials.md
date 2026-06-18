@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Testimonials
 description: Add some testimonials in grid or carousel
-icon: blockquote-left
+icon: message-square-quote
 hero:
   surtitle: Blocks
   title: Block testimonials

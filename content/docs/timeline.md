@@ -2,7 +2,7 @@
 isPage: true
 draft: false
 title: Timeline
-icon: list-ol
+icon: timeline
 description: Add timeline section
 hero:
   surtitle: Blocks

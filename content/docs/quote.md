@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Quote
 description: Add quote and author
-icon: blockquote-left
+icon: quote
 hero:
   surtitle: Blocks
   title: Block quote

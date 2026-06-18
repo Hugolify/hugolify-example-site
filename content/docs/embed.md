@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Embed
 description: Add embed like video youtube, typeform, calendly…
-icon: code-slash
+icon: code-xml
 hero:
   surtitle: Blocks
   title: Block embed

@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: FAQ
 description: Add some frequently asked questions
-icon: patch-question
+icon: badge-question-mark
 hero:
   surtitle: Blocks
   title: Block FAQ

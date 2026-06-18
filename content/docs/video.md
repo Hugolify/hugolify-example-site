@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Video
 description: Add video section
-icon: camera-video
+icon: video
 hero:
   surtitle: Blocks
   title: Block video

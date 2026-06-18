@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Informations
 description: Add some cards informations in column. Icon, images and button are available
-icon: card-heading
+icon: ellipsis
 hero:
   surtitle: Blocks
   title: Block informations
@@ -31,7 +31,7 @@ blocks:
         icon: cloud-sun
       - title: Aliquam velit magna
         text: Donec ut eros sit amet ipsum pulvinar sagittis.
-        icon: clouds
+        icon: cloudy
       - title: Curabitur non ante purus
         text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
         icon: sun
@@ -50,7 +50,7 @@ blocks:
         icon: cloud-sun
       - title: Aliquam velit magna
         text: Donec ut eros sit amet ipsum pulvinar sagittis.
-        icon: clouds
+        icon: cloudy
   - type: informations
     column: 4
     background: true
@@ -66,7 +66,7 @@ blocks:
         icon: cloud-sun
       - title: Aliquam velit magna
         text: Donec ut eros sit amet ipsum pulvinar sagittis.
-        icon: clouds
+        icon: cloudy
         cta:
           blank: false
           url: '#'
@@ -143,7 +143,7 @@ blocks:
           isLogo: true
       - title: Aliquam velit magna
         text: Donec ut eros sit amet ipsum pulvinar sagittis.
-        icon: clouds
+        icon: cloudy
       - title: Curabitur non ante purus
         text: Curabitur in tortor et odio congue suscipit sit amet quis purus.
         cta:

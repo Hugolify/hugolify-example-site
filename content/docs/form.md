@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Form
 description: Add form
-icon: input-cursor-text
+icon: text-cursor-input
 hero:
   surtitle: Blocks
   title: Block form

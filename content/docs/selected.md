@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Selected
 description: Add selected items section (posts, projects, publications, casestudies…)
-icon: check-all
+icon: check-check
 hero:
   surtitle: Blocks
   title: Selected sections

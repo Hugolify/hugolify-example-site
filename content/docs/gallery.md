@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Gallery
 description: Add image gallery in grid
-icon: grid-3x2-gap
+icon: grid-3x3
 hero:
   surtitle: Blocks
   title: Block gallery

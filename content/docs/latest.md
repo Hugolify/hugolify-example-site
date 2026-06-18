@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Latest
 description: Add latest items section (posts, projects, publications, casestudies…)
-icon: clock-history
+icon: gallery-vertical-end
 hero:
   surtitle: Blocks
   title: Block latest

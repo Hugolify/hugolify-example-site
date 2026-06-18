@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Map
 description: Add a map ( with Leaflet JS library)
-icon: geo-alt
+icon: map-pin
 hero:
   surtitle: Blocks
   title: Block map

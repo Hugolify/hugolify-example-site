@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Paragraph
 description: Add title and some text, 4 widths and 3 alignments available
-icon: text-paragraph
+icon: text-align-start
 hero:
   surtitle: Blocks
   title: Block paragraph

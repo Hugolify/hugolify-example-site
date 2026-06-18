@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Figure
 description: Add image block with legend and credits, 4 widths available
-icon: card-image
+icon: image
 hero:
   surtitle: Blocks
   title: Block figure

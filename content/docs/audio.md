@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Audio
 description: Add MP3 or OGG audio section.
-icon: soundwave
+icon: audio-lines
 hero:
   surtitle: Blocks
   title: Block audio

@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Alert
 description: Add alert section with state
-icon: exclamation-octagon
+icon: octagon-alert
 hero:
   surtitle: Blocks
   title: Block alert

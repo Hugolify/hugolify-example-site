@@ -5,7 +5,7 @@ title: Pushes
 aliases: 
   - /blocks/push
 description: Add some cards push with image and button in column or carousel.
-icon: credit-card-2-front
+icon: captions
 hero:
   surtitle: Blocks
   title: Block pushes

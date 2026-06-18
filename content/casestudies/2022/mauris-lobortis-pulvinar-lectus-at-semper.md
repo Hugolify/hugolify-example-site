@@ -24,7 +24,7 @@ blocks:
         auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris
         tincidunt velit sed rhoncus tincidunt.
     items:
-      - icon: airplane
+      - icon: plane
         title: Lectus dictum.
         text:
           Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus

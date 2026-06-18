@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Editorial
 description: Add section with content (texts and buttons) and media
-icon: postcard
+icon: id-card
 hero:
   surtitle: Blocks
   title: Block editorial
