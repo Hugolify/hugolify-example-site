@@ -13,7 +13,7 @@ tags:
   - Lorem
   - Ipsum
 image:
-  src: /images/uploads/bertrand-borie-tmlculvqha0-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/bertrand-borie-tmlculvqha0-unsplash_txxxny.jpg
   credit: Photo by [Bertrand
     Borie](https://unsplash.com/@bertrand1212?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

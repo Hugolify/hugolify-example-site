@@ -15,8 +15,6 @@ hero:
     - text: Page code on Github
       url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/form.md
       blank: true
-  image:
-    src: /images/uploads/input-cursor-text.svg
 blocks:
   - type: form
     background: false

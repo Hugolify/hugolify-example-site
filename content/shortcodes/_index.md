@@ -50,7 +50,7 @@ Hugolify uses {{< blank_link link="https://github.com/twbs/bootstrap/blob/v5.3.8
 {{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" >}}
 {{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" >}}
 {{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" text="Egestas augue a egestas" >}}
-{{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" text="Egestas augue a egestas" image="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg" >}}
+{{< blockquote quote="Donec varius velit nisi, a accumsan odio molestie ut" title="Sed Pharetra" text="Egestas augue a egestas" image="https://res.cloudinary.com/uncinq/image/upload/v1783352602/bernd-dittrich-tfwcwynxibw-unsplash_jkndoe.jpg" >}}
 
 ### Button
 
@@ -79,14 +79,14 @@ Maecenas at quam vel lorem malesuada euismod nec vel nibh
 ### Figure
 
 {{< figure
-  src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg"
+  src="https://res.cloudinary.com/uncinq/image/upload/v1783352602/bernd-dittrich-tfwcwynxibw-unsplash_jkndoe.jpg"
   alt="Alternative text"
   legend="Donec varius velit nisi, a accumsan" 
   credit="Donec varius velit nisi, a accumsan odio molestie ut"
 >}}
 
 {{< figure
-  src="/images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg"
+  src="https://res.cloudinary.com/uncinq/image/upload/v1783352602/bernd-dittrich-tfwcwynxibw-unsplash_jkndoe.jpg"
   alt="Alternative text"
   link="#"
   legend="Donec varius velit nisi, a accumsan"

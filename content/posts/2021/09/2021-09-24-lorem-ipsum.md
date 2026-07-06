@@ -9,7 +9,7 @@ categories: Lorem ipsum
 authors:
   - john-doe
 image:
-  src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352602/balthazar-lelievre-zsozkbm7yy8-unsplash_kw7bod.jpg
   credit: Photo by [Balthazar
     LELIEVRE](https://unsplash.com/@balthazar_lvr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

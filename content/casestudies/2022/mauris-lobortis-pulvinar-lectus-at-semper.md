@@ -5,9 +5,7 @@ date: 2022-11-21T14:04:45.297Z
 title: Mauris lobortis pulvinar lectus at semper.
 description: Suspendisse sollicitudin dignissim velit quis consequat
 image:
-  credit: ''
-  src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
-  alt: ''
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352602/balthazar-lelievre-zsozkbm7yy8-unsplash_kw7bod.jpg
 hero:
   title: Mauris lobortis pulvinar lectus at semper.
   text: Suspendisse sollicitudin dignissim velit quis consequat
@@ -43,6 +41,6 @@ blocks:
     grid: medium
     background: false
     figure:
-      src: /images/uploads/bertrand-borie-tmlculvqha0-unsplash.jpg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/bertrand-borie-tmlculvqha0-unsplash_txxxny.jpg
       legend: Eget commodo ex ullamcorper eu
 ---

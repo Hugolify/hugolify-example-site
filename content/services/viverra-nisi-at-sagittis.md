@@ -9,7 +9,7 @@ image:
     Czapp](https://unsplash.com/@czapp_arpad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on
     [Unsplash](https://unsplash.com/s/photos/arcachon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/lopez-robin-nbpp7pzpsh8-unsplash_xyg7nf.jpg
   alt: Arcachon
 services_persons:
   - john-doe

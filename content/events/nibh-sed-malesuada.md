@@ -5,7 +5,7 @@ date: 2025-02-01T15:23:36.814Z
 title: Nibh sed malesuada
 description: Suspendisse pretium lacinia nisl a sagittis, aliquam nec orci sagittis massa eleifend consequat.
 image:
-  src: /images/uploads/jade-marchand-9RNuxuX9DdU-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/jade-marchand-9RNuxuX9DdU-unsplash_owl31z.jpg
 event:
   date_from: 2025-01-22T23:59:00Z
   date_to: 2025-02-22T23:59:00Z

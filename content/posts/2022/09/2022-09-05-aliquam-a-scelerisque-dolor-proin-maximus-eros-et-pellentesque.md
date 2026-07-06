@@ -12,7 +12,7 @@ tags:
 authors:
   - john-doe
 image:
-  src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/sebastien-jermer-ty9wjiijyj0-unsplash_eggykg.jpg
   credit: Photo by [Sébastien
     Jermer](https://unsplash.com/es/@seb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

@@ -5,7 +5,7 @@ date: 2022-10-17T15:23:36.814Z
 title: Mauris lobortis pulvinar
 description: Suspendisse pretium lacinia nisl a sagittis, aliquam nec orci sagittis massa eleifend consequat.
 image:
-  src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352602/balthazar-lelievre-zsozkbm7yy8-unsplash_kw7bod.jpg
   credit: Photo by [Balthazar
     LELIEVRE](https://unsplash.com/@balthazar_lvr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

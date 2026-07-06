@@ -7,7 +7,7 @@ description: ' Quisque sed dignissim nibh. Phasellus porta urna ligula, in
   dapibus turpis lobortis quis. Integer convallis tincidunt odio.'
 projects_types: Nulla ut feugiat
 image:
-  src: /images/uploads/bien-labas-4zpbnymvbbg-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352605/bien-labas-4zpbnymvbbg-unsplash_lzjn30.jpg
   credit: Photo by [Bien
     Labas](https://unsplash.com/@bienlabas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

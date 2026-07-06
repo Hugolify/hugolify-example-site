@@ -11,7 +11,7 @@ persons_places:
   - le-phare-du-cap-ferret
   - le-phare-de-la-courbe
 image:
-  src: /images/uploads/asaf-7jSkK3DLmnM-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352605/asaf-7jSkK3DLmnM-unsplash_lq5hzi.jpg
   credit: Photo by [asaf](https://unsplash.com/fr/@asafyrov?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/fr/photos/personne-debout-entre-les-clotures-dintimite-tout-en-tenant-une-planche-de-surf-jaune-pendant-la-journee-7jSkK3DLmnM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 contact:
   email: johndoe@email.com

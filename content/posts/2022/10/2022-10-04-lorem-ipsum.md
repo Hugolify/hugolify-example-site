@@ -9,7 +9,7 @@ categories: Lorem ipsum
 authors:
   - john-doe
 image:
-  src: /images/uploads/yann-behr-whwcf5sbdqo-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/yann-behr-whwcf5sbdqo-unsplash_qxxb8x.jpg
   credit: Photo by [yann
     behr](https://unsplash.com/@yannbehr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

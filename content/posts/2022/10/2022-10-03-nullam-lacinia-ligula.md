@@ -10,7 +10,7 @@ categories: Donec maximus a nulla ut feugiat
 authors:
   - jane-doe
 image:
-  src: /images/uploads/bertrand-bouchez-lrd26nd-awu-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/bertrand-bouchez-lrd26nd-awu-unsplash_x6jpoy.jpg
   credit: Photo by [Bertrand
     Bouchez](https://unsplash.com/@dollyfilms?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

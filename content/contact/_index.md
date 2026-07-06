@@ -7,7 +7,7 @@ hero:
   text: Lorem ipsum
   align: center
   image:
-    src: /images/uploads/ludovic-digidi-ivooorgbrkk-unsplash.jpg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/ludovic-digidi-ivooorgbrkk-unsplash_vbjpiq.jpg
     darken: true
     background_image: true
   cta:

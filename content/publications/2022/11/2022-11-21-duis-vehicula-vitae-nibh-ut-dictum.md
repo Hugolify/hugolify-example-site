@@ -11,7 +11,7 @@ image:
     Photography](https://unsplash.com/@clo_shooting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on
     [Unsplash](https://unsplash.com/s/photos/contis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/clovis-wood-photography-ukia1x8ogfy-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352602/clovis-wood-photography-ukia1x8ogfy-unsplash_b0l37v.jpg
 images: []
 press:
   url: https://lipsum.com/
