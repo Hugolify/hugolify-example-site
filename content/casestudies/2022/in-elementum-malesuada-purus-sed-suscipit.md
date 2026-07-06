@@ -17,7 +17,7 @@ image:
     Dittrich](https://unsplash.com/@hdbernd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on
     [Unsplash](https://unsplash.com/s/photos/pyla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/bernd-dittrich-tfwcwynxibw-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352602/bernd-dittrich-tfwcwynxibw-unsplash_jkndoe.jpg
 hero:
   cta:
     blank: false
@@ -37,7 +37,7 @@ blocks:
       nibh. Cras ac facilisis nunc.
     title: Maecenas at quam vel lorem malesuada euismod
     image:
-      src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/lopez-robin-nbpp7pzpsh8-unsplash_xyg7nf.jpg
   - type: quote
     background: false
     quote:
@@ -54,8 +54,8 @@ blocks:
     heading:
       title: Quisque sed tortor vel tortor tincidunt tristique id nec urna.
     gallery:
-      - src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
-      - src: /images/uploads/robin-goutard-3evcj31p35q-unsplash.jpg
-      - src: /images/uploads/andrea-villiers-qgift_rbhyg-unsplash.jpg
-      - src: /images/uploads/balthazar-lelievre-zsozkbm7yy8-unsplash.jpg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/sebastien-jermer-ty9wjiijyj0-unsplash_eggykg.jpg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1783352605/robin-goutard-3evcj31p35q-unsplash_zztlb9.jpg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/andrea-villiers-qgift_rbhyg-unsplash_se91ft.jpg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1783352602/balthazar-lelievre-zsozkbm7yy8-unsplash_kw7bod.jpg
 ---

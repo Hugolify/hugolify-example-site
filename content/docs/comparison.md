@@ -2,7 +2,7 @@
 isPage: true
 draft: false
 title: Comparison
-icon: layout-three-columns
+icon: columns-3
 description: Add comparison section with prices, arguments and CTA
 hero:
   surtitle: Blocks
@@ -29,13 +29,13 @@ blocks:
           price: 39
         arguments:
           - text: Lorem ipsum dolor
-            icon: people
+            icon: users
           - text: Praesent condimentum nibh erat
             icon: house
           - text: Vestibulum ex metus
-            icon: person
+            icon: user
           - text: Consectetur adipiscing elit
-            icon: envelope
+            icon: mail
         cta:
           url: "#"
           text: CTA
@@ -53,7 +53,7 @@ blocks:
           - text: Vestibulum ex metus
             icon: key
           - text: Consectetur adipiscing elit
-            icon: tree
+            icon: tree-pine
         cta:
           url: "#"
           text: CTA
@@ -69,18 +69,72 @@ blocks:
           - text: Vestibulum ex metus
             icon: key
           - text: Consectetur adipiscing elit
-            icon: tree
+            icon: tree-pine
         cta:
           url: "#"
           text: CTA
+  
   - type: comparison
-    background: true
     heading:
       surtitle: Blandit dapibus erat.
       title: Duis nisl odio, blandit vel quam eget
       text: Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi. Blandit dapibus erat.
     items: 
       - title: Lorem ipsum dolor
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+      - title: Aenean commodo
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+  - type: comparison
+    ui:
+      theme: dark
+      grid: medium
+      offset: end
+    heading:
+      surtitle: Blandit dapibus erat.
+      title: Duis nisl odio, blandit vel quam eget
+      text: Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi. Blandit dapibus erat.
+    items: 
+      - title: Lorem ipsum dolor
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+      - title: Aenean commodo
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+  - type: comparison
+    ui:
+      theme: accent
+      grid: full
+    heading:
+      surtitle: Blandit dapibus erat.
+      title: Duis nisl odio, blandit vel quam eget
+      text: Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi. Blandit dapibus erat.
+    items: 
+      - title: Lorem ipsum dolor
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+      - title: Aenean commodo
         text: Vestibulum ex metus, rhoncus non diam vitae.
         arguments:
           - text: Lorem ipsum dolor

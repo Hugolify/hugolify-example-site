@@ -8,7 +8,7 @@ description: Aliquam nec orci sagittis massa eleifend consequat. Pellentesque
   risus nibh, ultrices scelerisque felis vehicula eget.
 projects_types: Phasellus ut
 image:
-  src: /images/uploads/olga-serjantu-nov56fya1me-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/olga-serjantu-nov56fya1me-unsplash_vxcfog.jpg
   credit: Photo by [Olga
     Serjantu](https://unsplash.com/@olgaserjantu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

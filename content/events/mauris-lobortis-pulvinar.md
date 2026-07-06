@@ -5,7 +5,7 @@ date: 2022-10-17T15:23:36.814Z
 title: Mauris lobortis pulvinar
 description: Suspendisse pretium lacinia nisl a sagittis, aliquam nec orci sagittis massa eleifend consequat.
 image:
-  src: /images/uploads/sebastien-jermer-ty9wjiijyj0-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/sebastien-jermer-ty9wjiijyj0-unsplash_eggykg.jpg
 event:
   date_from: 2025-02-22T20:00:00Z
   date_to: 2025-02-22T23:59:00Z

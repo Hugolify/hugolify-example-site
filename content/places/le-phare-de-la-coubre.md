@@ -10,7 +10,7 @@ address:
     lat: 45.69651681205243
     lng: -1.2330289700730246
 image:
-  src: /images/uploads/jade-marchand-9RNuxuX9DdU-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/jade-marchand-9RNuxuX9DdU-unsplash_owl31z.jpg
   credits: Photo de <a href="https://unsplash.com/fr/@jadjie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jade Marchand</a> sur <a href="https://unsplash.com/fr/photos/phare-rouge-et-blanc-sur-un-champ-dherbe-verte-sous-un-ciel-bleu-pendant-la-journee-9RNuxuX9DdU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 ---
   

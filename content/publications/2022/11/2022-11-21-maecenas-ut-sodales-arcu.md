@@ -6,7 +6,7 @@ title: Maecenas ut sodales arcu
 description: Maecenas ac aliquet ante. Quisque risus mauris, maximus ut luctus
   ut, faucibus vitae ligula.
 image:
-  src: /images/uploads/andrea-villiers-qgift_rbhyg-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/andrea-villiers-qgift_rbhyg-unsplash_se91ft.jpg
 publications_categories:
   - Lorem
 press:

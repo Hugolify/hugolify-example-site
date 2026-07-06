@@ -6,8 +6,8 @@ title: Nullam vehicula tincidunt nunc id ultricies
 description: In sit amet magna id ligula aliquet facilisis sit amet vel sapien.
 projects_types: Facilisis tellus
 image:
-  src: /images/uploads/andrea-villiers-qgift_rbhyg-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/andrea-villiers-qgift_rbhyg-unsplash_se91ft.jpg
 images:
   - half: false
-    src: /images/uploads/ludovic-digidi-ivooorgbrkk-unsplash.jpg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/ludovic-digidi-ivooorgbrkk-unsplash_vbjpiq.jpg
 ---

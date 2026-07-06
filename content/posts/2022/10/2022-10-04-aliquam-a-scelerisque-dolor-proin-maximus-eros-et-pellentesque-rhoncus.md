@@ -10,7 +10,7 @@ authors:
   - john-doe
   - jane-doe
 image:
-  src: /images/uploads/louis-mornaud-yugpd0evcgi-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/louis-mornaud-yugpd0evcgi-unsplash_o2sn7z.jpg
   credit: Photo by [Louis
     Mornaud](https://unsplash.com/@louismornaud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on

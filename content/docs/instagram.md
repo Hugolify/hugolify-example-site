@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Instagram
 description: Add instagram feed
-icon: instagram
+icon: brand:instagram
 hero:
   surtitle: Blocks
   title: Block Instagram

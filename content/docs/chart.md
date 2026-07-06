@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Chart
 description: Add different chart (bar, line, pie…)
-icon: bar-chart
+icon: chart-no-axes-column-increasing
 hero:
   surtitle: Blocks
   title: Block chart

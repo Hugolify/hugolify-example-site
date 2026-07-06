@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Video
 description: Add video section
-icon: camera-video
+icon: video
 hero:
   surtitle: Blocks
   title: Block video
@@ -22,8 +22,8 @@ blocks:
       title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     grid: small
     video:
-      mp4: /videos/lawyerify-independent.mp4
-      webm: /videos/lawyerify-independent.webm
+      mp4: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.mp4
+      webm: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.webm
       screenshot: false
       autoplay: false
       controls: true
@@ -34,8 +34,8 @@ blocks:
       title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     grid: medium
     video:
-      mp4: /videos/lawyerify-independent.mp4
-      webm: /videos/lawyerify-independent.webm
+      mp4: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.mp4
+      webm: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.webm
       screenshot: true
       autoplay: true
       controls: false
@@ -47,16 +47,46 @@ blocks:
         sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
         semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
         nec iaculis lorem.
+
+  #  THEME
   - type: video
-    background: true
+    theme: accent
+    heading:
+      surtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    grid: full
+    video:
+      mp4: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.mp4
+      webm: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.webm
+      screenshot: false
+      autoplay: true
+      controls: false
+      loop: true
+  - type: video
+    theme: dark
+    offset: center
     heading:
       surtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     grid: large
     video:
-      mp4: /videos/lawyerify-independent.mp4
-      webm: /videos/lawyerify-independent.webm
-      screenshot: true
+      mp4: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.mp4
+      webm: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.webm
+      screenshot: false
+      autoplay: true
+      controls: false
+      loop: true
+  - type: video
+    theme: light
+    heading:
+      surtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    grid: medium
+    offset: center
+    video:
+      mp4: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.mp4
+      webm: https://57fec860-25f5-48e3-a3f5-d58e0c572935.mdnplay.dev/shared-assets/videos/flower.webm
+      screenshot: false
       autoplay: true
       controls: false
       loop: true

@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Newsletter
 description: Add a newsletter signup form (Mailchimp, Brevo…)
-icon: envelope
+icon: mail
 hero:
   surtitle: Blocks
   title: Block newsletter

@@ -2,13 +2,12 @@
 isPage: true
 draft: false
 title: Blocks
-url: blocks
 description: Listing of available blocks
 hero:
   title: Blocks
   text: More than twenty blocks available
   image:
-    src: /images/uploads/123.Website-builder.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
   ctas:
     - blank: true
       text: Documentation

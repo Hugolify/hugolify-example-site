@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Quote
 description: Add quote and author
-icon: blockquote-left
+icon: quote
 hero:
   surtitle: Blocks
   title: Block quote
@@ -25,15 +25,19 @@ blocks:
     author:
       title: Aenean commodo
       image:
-        src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+        src: https://res.cloudinary.com/uncinq/image/upload/v1782294171/anders-jilden-Sc5RKXLBjGg-unsplash_rafux6.jpg
       text: Vivamus non mauris elit
   - type: quote
-    background: true
+    ui:
+      theme: light
     quote:
       Aliquam eget justo laoreet, sodales est in, eleifend lacus. Aenean eget
       enim vitae tortor tincidunt placerat.
   - type: quote
-    background: false
+    ui:
+      theme: accent
+      offset: center
+      grid: medium
     quote: Nunc luctus, ante vitae auctor venenatis, purus leo aliquam dui, ac
       bibendum ante eros quis dolor. Nulla dapibus, mi ac posuere suscipit, erat
       lacus commodo mauris, et venenatis metus felis ac justo. Duis quis
@@ -41,8 +45,12 @@ blocks:
     author:
       title: Nulla dapibus
       text: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+      url: /
   - type: quote
-    background: true
+    ui:
+      theme: dark
+      grid: small
+      offset: center
     quote: Nunc luctus, ante vitae auctor venenatis, purus leo aliquam dui, ac
       bibendum ante eros quis dolor. Nulla dapibus, mi ac posuere suscipit, erat
       lacus commodo mauris, et venenatis metus felis ac justo. Duis quis
@@ -50,7 +58,8 @@ blocks:
     author:
       title: Nulla dapibus
   - type: quote
-    background: false
+    ui:
+      grid: full
     quote: Nunc luctus, ante vitae auctor venenatis, purus leo aliquam dui, ac
       bibendum ante eros quis dolor. Nulla dapibus, mi ac posuere suscipit, erat
       lacus commodo mauris, et venenatis metus felis ac justo. Duis quis

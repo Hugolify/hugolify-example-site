@@ -9,7 +9,7 @@ image:
     Czapp](https://unsplash.com/@czapp_arpad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on
     [Unsplash](https://unsplash.com/s/photos/arcachon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/ludovic-digidi-ivooorgbrkk-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/ludovic-digidi-ivooorgbrkk-unsplash_vbjpiq.jpg
   alt: Arcachon
 hero:
   cta:
@@ -22,9 +22,9 @@ blocks:
     background: false
     images:
       - half: false
-        src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+        src: https://res.cloudinary.com/uncinq/image/upload/v1783352605/lea-maruani-um-shmjr_no-unsplash_f1ls0w.jpg
       - half: false
-        src: /images/uploads/olga-serjantu-jbjd2kbi55s-unsplash.jpg
+        src: https://res.cloudinary.com/uncinq/image/upload/v1783352602/olga-serjantu-jbjd2kbi55s-unsplash_b4rv9d.jpg
     heading:
       title: Quisque sed tortor vel tortor tincidunt tristique id nec urna.
 ---

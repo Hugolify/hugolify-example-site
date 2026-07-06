@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Title
 description: Add title section
-icon: type-h2
+icon: heading-2
 hero:
   surtitle: Blocks
   title: Block title

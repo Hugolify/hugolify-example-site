@@ -24,7 +24,7 @@ blocks:
       text: See all available blocks
       url: /blocks
     image:
-      src: /images/uploads/123.Website-builder.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
   - type: latest
     count: 3
     show_more: true

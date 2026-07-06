@@ -10,7 +10,7 @@ image:
     Maruani](https://unsplash.com/ja/@lea4113?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on
     [Unsplash](https://unsplash.com/collections/87604549/les-landes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/lea-maruani-um-shmjr_no-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352605/lea-maruani-um-shmjr_no-unsplash_f1ls0w.jpg
 images: []
 publications_persons:
   - john-doe

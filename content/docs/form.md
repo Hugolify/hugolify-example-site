@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Form
 description: Add form
-icon: input-cursor-text
+icon: text-cursor-input
 hero:
   surtitle: Blocks
   title: Block form
@@ -15,8 +15,6 @@ hero:
     - text: Page code on Github
       url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/form.md
       blank: true
-  image:
-    src: /images/uploads/input-cursor-text.svg
 blocks:
   - type: form
     background: false

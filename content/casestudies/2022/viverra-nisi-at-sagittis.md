@@ -9,7 +9,7 @@ image:
     Czapp](https://unsplash.com/@czapp_arpad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     on
     [Unsplash](https://unsplash.com/s/photos/arcachon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/lopez-robin-nbpp7pzpsh8-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/lopez-robin-nbpp7pzpsh8-unsplash_xyg7nf.jpg
   alt: Arcachon
 hero:
   cta:
@@ -23,7 +23,7 @@ hero:
     tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus
     lacinia, eget sollicitudin lectus dictum.
   image:
-    src: /images/uploads/andrea-villiers-qgift_rbhyg-unsplash.jpg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1783352603/andrea-villiers-qgift_rbhyg-unsplash_se91ft.jpg
 blocks:
   - type: quote
     background: false
@@ -37,7 +37,7 @@ blocks:
       title: John Doe
       text: Lorem ipsum
       image:
-        src: /images/uploads/yann-behr-whwcf5sbdqo-unsplash.jpg
+        src: https://res.cloudinary.com/uncinq/image/upload/v1783352604/yann-behr-whwcf5sbdqo-unsplash_qxxb8x.jpg
   - type: datas
     column: 3
     show_gauge: false

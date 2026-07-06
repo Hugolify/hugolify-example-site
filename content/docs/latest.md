@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Latest
 description: Add latest items section (posts, projects, publications, casestudies…)
-icon: clock-history
+icon: gallery-vertical-end
 hero:
   surtitle: Blocks
   title: Block latest
@@ -19,41 +19,73 @@ blocks:
   - type: latest
     count: 3
     show_more: true
-    background: false
+    ui:
+      align: center
     section: posts
     heading:
-      title: Latest news
+      title: Dernières actualités
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
-    count: 3
+    count: 6
     show_more: true
-    background: false
-    section: projects
+    ui:
+      layout: list
+      offset: center
+      grid: large
+    section: posts
     heading:
-      title: Latest projects
+      title: Dernières actualités
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
     count: 3
     show_more: true
-    background: false
-    section: casestudies
-    heading:
-      title: Latest case studies
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - type: latest
-    count: 3
-    show_more: true
-    background: false
+    ui:
+      align: center
+      theme: light
     section: publications
     heading:
-      title: Latest publications
+      title: Dernières parutions
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   - type: latest
     count: 3
     show_more: true
-    background: false
+    ui:
+      align: center
+      theme: dark
+    section: realestates
+    heading:
+      title: Dernières annonces
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - type: latest
+    count: 4
+    show_more: true
+    ui:
+      align: center
+      theme: light
     section: persons
     heading:
-      title: Latest persons
+      title: Dernières personnes
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - type: latest
+    count: 4
+    show_more: true
+    ui:
+      layout: list
+      offset: center
+      grid: medium
+      theme: light
+    section: persons
+    heading:
+      title: Dernières personnes
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - type: latest
+    count: 3
+    show_more: true
+    ui:
+      align: center
+      theme: accent
+    section: publications
+    heading:
+      title: Dernières parutions
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
