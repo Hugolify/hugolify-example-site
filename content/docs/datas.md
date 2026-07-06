@@ -17,9 +17,10 @@ hero:
       blank: true
 blocks:
   - type: datas
-    column: 3
-    background: false
+    ui:
+      column: 3
     heading:
+      surtitle: 3 columns
       title: With gauge and automatic color
       text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
@@ -45,9 +46,42 @@ blocks:
     show_color: true
     show_gauge: true
   - type: datas
-    column: 3
-    background: false
+    ui:
+      column: 3
+      theme: light
     heading:
+      surtitle: theme light, 3 columns
+      title: With gauge and automatic color
+      text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+    items:
+      - text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
+        title: Faucibus
+        value: 90
+        prefix: ''
+        suffix: '%'
+        limit: 100
+      - value: 45
+        title: Quisque consectetur
+        text: Mauris convallis ante eu nisl iaculis efficitur. Pellentesque vel
+          fringilla nunc.
+        suffix: '%'
+        limit: 100
+      - value: 66
+        title: Morbi placerat erat
+        text:
+          Proin sagittis faucibus tortor, rutrum facilisis erat volutpat ut. Etiam
+          porta sapien eu tellus ornare tincidunt.
+        limit: 100
+        suffix: '%'
+    show_color: true
+    show_gauge: true
+  - type: datas
+    ui:
+      theme: dark
+      column: 4
+      grid: full
+    heading:
+      surtitle: theme dark, grid full, 4 columns
       title: With gauge
       text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
@@ -73,9 +107,12 @@ blocks:
     show_color: false
     show_gauge: true
   - type: datas
-    column: 3
-    background: false
+    ui:
+      theme: accent
+      column: 3
+      grid: large
     heading:
+      surtitle: theme accent, grid large, 3 columns
       title: Without gauges
       text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:
@@ -101,9 +138,11 @@ blocks:
     show_color: false
     show_gauge: false
   - type: datas
-    column: 4
-    background: false
+    ui:
+      column: 4
+      theme: highlight
     heading:
+      surtitle: theme highlight, 4 columns
       title: Without gauges
       text: Maecenas semper urna enim, viverra faucibus tellus bibendum sed
     items:

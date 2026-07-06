@@ -26,14 +26,14 @@ blocks:
       title: Grid (6 columns)
       text: Nam eleifend nisl tellus, porta lacinia
     items:
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
   - type: logos
     column: 8
     background: true
@@ -41,26 +41,26 @@ blocks:
       title: Grid (8 columns)
       text: Nam eleifend nisl tellus, porta lacinia
     items:
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
   - type: logos
     layout: carousel
     background: false
     carousel:
       params:
+        arrows: true
+        autoplay: true
+        interval: 2000
+        pagination: false
         perMove: 1
         perPage: 8
-        interval: 2000
-        autoplay: true
         type: loop
-        arrows: true
-        gap: 1.5rem
       responsive:
         - breakpoints: 640
           params:
@@ -72,12 +72,45 @@ blocks:
       title: Carousel (8 columns)
       text: Nam eleifend nisl tellus, porta lacinia
     items:
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
-      - src: /images/uploads/instagram.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+
+  #  THEME
+  - type: logos
+    column: 8
+    grid: medium
+    offset: center
+    theme: light
+    heading:
+      title: Grid (8 columns, medium, center offset, light theme)
+      text: Nam eleifend nisl tellus, porta lacinia
+    items:
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
+      - src: https://res.cloudinary.com/uncinq/image/upload/v1782295060/logo-black_e1lfvo.svg
 ---

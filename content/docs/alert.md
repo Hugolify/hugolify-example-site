@@ -25,21 +25,30 @@ blocks:
       nibh erat, eget interdum nisi auctor eget.
   - type: alert
     state: light
-    background: false
+    ui:
+      offset: center
+      align: center
+      grid: small
     text:
       Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
       pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
       nibh erat, eget interdum nisi auctor eget.
   - type: alert
     state: warning
-    background: false
+    ui:
+      offset: center
+      align: center
+      grid: medium
     text:
       Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
       pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
       nibh erat, eget interdum nisi auctor eget.
   - type: alert
     state: danger
-    background: false
+    ui:
+      offset: center
+      align: end
+      grid: large
     text:
       Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
       pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
@@ -53,7 +62,8 @@ blocks:
       nibh erat, eget interdum nisi auctor eget.
   - type: alert
     state: info
-    background: false
+    ui:
+      theme: accent
     text:
       Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
       pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
@@ -67,7 +77,8 @@ blocks:
       nibh erat, eget interdum nisi auctor eget.
   - type: alert
     state: secondary
-    background: false
+    ui:
+      theme: dark
     text:
       Duis nisl odio, blandit vel quam eget, **blandit dapibus erat**. Nullam
       pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum

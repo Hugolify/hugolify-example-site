@@ -73,14 +73,68 @@ blocks:
         cta:
           url: "#"
           text: CTA
+  
   - type: comparison
-    background: true
     heading:
       surtitle: Blandit dapibus erat.
       title: Duis nisl odio, blandit vel quam eget
       text: Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi. Blandit dapibus erat.
     items: 
       - title: Lorem ipsum dolor
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+      - title: Aenean commodo
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+  - type: comparison
+    ui:
+      theme: dark
+      grid: medium
+      offset: end
+    heading:
+      surtitle: Blandit dapibus erat.
+      title: Duis nisl odio, blandit vel quam eget
+      text: Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi. Blandit dapibus erat.
+    items: 
+      - title: Lorem ipsum dolor
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+      - title: Aenean commodo
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+  - type: comparison
+    ui:
+      theme: accent
+      grid: full
+    heading:
+      surtitle: Blandit dapibus erat.
+      title: Duis nisl odio, blandit vel quam eget
+      text: Vestibulum ex metus, rhoncus non diam vitae, euismod posuere mi. Blandit dapibus erat.
+    items: 
+      - title: Lorem ipsum dolor
+        text: Vestibulum ex metus, rhoncus non diam vitae.
+        arguments:
+          - text: Lorem ipsum dolor
+          - text: Praesent condimentum nibh erat
+          - text: Vestibulum ex metus
+          - text: Consectetur adipiscing elit
+      - title: Aenean commodo
         text: Vestibulum ex metus, rhoncus non diam vitae.
         arguments:
           - text: Lorem ipsum dolor

@@ -47,7 +47,8 @@ blocks:
       - blank: false
         url: '#'
         text: Button
-    background: true
+    ui:
+      theme: accent
     heading:
       title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
       text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
@@ -71,7 +72,22 @@ blocks:
       - blank: false
         url: '#'
         text: Button
-    background: false
+    ui:
+      theme: dark
     heading:
       title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+  - type: cta
+    ctas:
+      - blank: false
+        url: '#'
+        text: Button
+      - blank: false
+        url: '#'
+        text: Second button
+    background: true
+    heading:
+      title: Nunc sollicitudin semper sapien, at laoreet purus cursus ut.
+      text: Duis nisl odio, blandit vel quam eget, blandit dapibus erat. Nullam
+        pretium eleifend lectus, at semper nulla egestas a. Praesent condimentum
+        nibh erat, eget interdum nisi auctor eget.
 ---

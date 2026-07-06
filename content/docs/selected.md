@@ -16,75 +16,109 @@ hero:
       url: https://raw.githubusercontent.com/Hugolify/hugolify-example-site/refs/heads/main/content/docs/selected.md
       blank: true
 blocks:
-  - type: selected-projects
-    background: false
-    section: projects
-    items:
-      - 2022/aliquet-facilisis
-      - 2022/fusce-ut-sapien-massa
-      - 2022/proin-massa-enim-lobortis-et-vehicula-non
-    heading:
-      title: 3 selected projects
-    show_more: true
-  - type: selected-projects
-    background: false
-    layout: list
-    section: projects
-    items:
-      - 2022/aliquet-facilisis
-      - 2022/fusce-ut-sapien-massa
-      - 2022/proin-massa-enim-lobortis-et-vehicula-non
-    heading:
-      title: 3 selected projects in list
-      text:
-        Curabitur nec ipsum sit amet tellus *sagittis* blandit. Nulla massa nibh,
-        cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
-        lectus ut **ligula elementum**, ac commodo tortor rhoncus. Vivamus
-        sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
-        semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
-        nec iaculis lorem.
-    show_more: false
-  - type: selected-casestudies
-    section: casestudies
-    show_more: true
-    background: true
-    items:
-      - 2022/maecenas-semper-urna-enim
-      - 2022/viverra-nisi-at-sagittis
-    heading:
-      title: 2 selected case studies
+  
   - type: selected-posts
     section: posts
     show_more: true
-    background: false
+    ui:
+      align: center
     items:
-      - 2022/09/2022-09-05-aliquam-a-scelerisque-dolor-proin-maximus-eros-et-pellentesque
-      - 2022/10/2022-10-04-aliquam-a-scelerisque-dolor-proin-maximus-eros-et-pellentesque-rhoncus
-      - 2022/10/2022-10-04-lorem-ipsum
-      - 2022/10/2022-10-03-nullam-lacinia-ligula
+      - 2022/08/2022-08-02-vivamus-vestibulum-ac-purus-at-pulvinar
+      - 2022/10/2022-10-26-lorem-ipsum
+      - 2023/02/2023-02-12-mauris-nibh-leo
     heading:
-      title: 4 selected posts
+      surtitle: Layout grid, Align center
+      title: 3 selected posts
       text: Duis nisl odio, blandit vel quam eget
+  
   - type: selected-posts
     section: posts
-    layout: list
+    ui:
+      layout: list
     show_more: true
-    background: false
     items:
-      - 2022/09/2022-09-05-aliquam-a-scelerisque-dolor-proin-maximus-eros-et-pellentesque
-      - 2022/10/2022-10-04-aliquam-a-scelerisque-dolor-proin-maximus-eros-et-pellentesque-rhoncus
-      - 2022/10/2022-10-04-lorem-ipsum
-      - 2022/10/2022-10-03-nullam-lacinia-ligula
+      - 2022/08/2022-08-02-vivamus-vestibulum-ac-purus-at-pulvinar
+      - 2022/10/2022-10-26-lorem-ipsum
+      - 2023/02/2023-02-12-mauris-nibh-leo
     heading:
-      title: 4 selected posts in list
+      surtitle: Layout list, Grid container
+      title: 3 selected posts
       text: Duis nisl odio, blandit vel quam eget
+  
   - type: selected-publications
     section: publications
     show_more: false
-    background: true
     heading:
-      surtitle: Lorem ipsum
+      surtitle: Layout grid
       title: 1 selected publication
+      text: Duis nisl odio, blandit vel quam eget
     items:
-      - 2022/11/2022-11-21-maecenas-ut-sodales-arcu
+      - 2023/01/2023-01-12-sed-metus-quam-imperdiet-ut-enim-vitae
+  
+  # THEME
+  - type: selected-posts
+    section: posts
+    ui:
+      theme: accent
+      layout: list
+      grid: medium
+      offset: center
+    show_more: true
+    heading:
+      surtitle: Layout list, Offset center, Theme accent, Grid medium
+      title: 3 selected posts
+      text: Duis nisl odio, blandit vel quam eget
+    items:
+      - 2022/08/2022-08-02-vivamus-vestibulum-ac-purus-at-pulvinar
+      - 2022/10/2022-10-26-lorem-ipsum
+      - 2023/02/2023-02-12-mauris-nibh-leo
+  - type: selected-posts
+    section: posts
+    ui:
+      theme: dark
+      layout: list
+      grid: small
+      offset: center
+    show_more: true
+    heading:
+      surtitle: List layout, Offset center, Dark theme, Small grid
+      title: 3 selected posts
+      text: Duis nisl odio, blandit vel quam eget
+    items:
+      - 2022/08/2022-08-02-vivamus-vestibulum-ac-purus-at-pulvinar
+      - 2022/10/2022-10-26-lorem-ipsum
+      - 2023/02/2023-02-12-mauris-nibh-leo
+  - type: selected-posts
+    section: posts
+    ui:
+      theme: light
+      layout: grid
+      grid: small
+      offset: center
+    show_more: true
+    heading:
+      surtitle: Grid layout, Offset center, Light theme, Small grid
+      title: 3 selected posts
+      text: Duis nisl odio, blandit vel quam eget
+    items:
+      - 2022/08/2022-08-02-vivamus-vestibulum-ac-purus-at-pulvinar
+      - 2022/10/2022-10-26-lorem-ipsum
+      - 2023/02/2023-02-12-mauris-nibh-leo
+  - type: selected-posts
+    section: posts
+    ui:
+      layout: grid
+      grid: full
+    show_more: false
+    heading:
+      surtitle: Grid layout, No Offset, Light theme, Small grid
+      title: 6 selected posts
+      text: Duis nisl odio, blandit vel quam eget
+    items:
+      - 2022/08/2022-08-02-vivamus-vestibulum-ac-purus-at-pulvinar
+      - 2022/10/2022-10-26-lorem-ipsum
+      - 2023/02/2023-02-12-mauris-nibh-leo
+      - 2022/08/2022-08-02-vivamus-vestibulum-ac-purus-at-pulvinar
+      - 2022/10/2022-10-26-lorem-ipsum
+      - 2023/02/2023-02-12-mauris-nibh-leo
 ---

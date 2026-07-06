@@ -25,6 +25,37 @@ blocks:
   - type: audio
     background: true
     heading:
+      surtitle: Light theme
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    audio:
+      mp3: /audios/t-rex-roar.mp3
+      transcription: >-
+        Curabitur nec ipsum sit amet tellus *sagittis* blandit. Nulla massa nibh,
+        cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
+        lectus ut **ligula elementum**, ac commodo tortor rhoncus. Vivamus
+        sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
+        semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
+        nec iaculis lorem.
+  - type: audio
+    ui:
+      theme: accent
+    heading:
+      surtitle: Accent theme
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    audio:
+      mp3: /audios/t-rex-roar.mp3
+      transcription: >-
+        Curabitur nec ipsum sit amet tellus *sagittis* blandit. Nulla massa nibh,
+        cursus a arcu et, viverra sodales ipsum. Duis id congue metus. In commodo
+        lectus ut **ligula elementum**, ac commodo tortor rhoncus. Vivamus
+        sollicitudin eu magna sed interdum. Mauris lobortis pulvinar lectus at
+        semper. Proin ac nunc urna. In placerat lorem ut tempus interdum. Maecenas
+        nec iaculis lorem.
+  - type: audio
+    ui:
+      theme: dark
+    heading:
+      surtitle: Dark theme
       title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     audio:
       mp3: /audios/t-rex-roar.mp3
