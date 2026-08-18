@@ -1,0 +1,9 @@
+title: Primary menu
+links:
+  - title: Home
+    url: /
+  - title: Blocks
+    url: /blocks/
+  - title: Hugolify docs
+    url: https://www.hugolify.io/docs/
+    blank: true
