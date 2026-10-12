@@ -10,6 +10,8 @@ module:
       target: layouts
     - source: static
       target: static
+  imports:
+    - path: github.com/hugolify/hugolify-example-blocks
 
 params:
   places:

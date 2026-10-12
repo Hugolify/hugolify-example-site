@@ -2,6 +2,7 @@
 isPage: true
 draft: false
 title: Blocks
+url: blocks
 description: Listing of available blocks
 hero:
   title: Blocks
